@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<topics>
+    <topic id="1"  name="A" ayats=""/>
+    <topic id="2"  name="Aaron" ayats="4:163,6:84,7:122,7:142,7:150,7:172,10:75,19:53,20:30,20:40,20:90,20:92,21:48,23:45,25:35,26:12,26:48,28:34,37:114-120"/>
+    <topic id="3" parent="2" name="House of" ayats="2:248"/>
+    <topic id="4"  name="Ablution" ayats="4:43,5:6"/>
+    <topic id="5" parent="4" name="circumstances requiring" ayats="4:43"/>
+    <topic id="6"  name="Abraham" ayats="2:124-129,2:130-132,2:135,2:136,2:140,2:258,2:260,3:65,3:67-68,3:84,3:95,3:97,4:54-55,4:125,4:163,6:74-83,6:161,9:70,9:114,11:69-76,12:6,12:38,14:35,15:51-56,16:120,16:123,19:41-49,19:58,21:51-73,22:26,22:43,22:78,26:69,29:16,29:25,29:31,33:7,37:83-109,38:45,42:13,43:26,51:24-34,53:37,57:26,60:4-5,87:19"/>
+    <topic id="7" parent="6" name="neither Jew nor Christian" ayats="3:67"/>
+    <topic id="8" parent="6" name="stood in first temple at Bakkah" ayats="3:97,26:123"/>
+    <topic id="9"  name="Abrogation" ayats="2:106,16:101"/>
+    <topic id="10"  name="Abu Lahab (Abd al-Uzza)" ayats="111:1-3"/>
+    <topic id="11" parent="10" name="his wife" ayats="111:4-5"/>
+    <topic id="12"  name="Acacia flowers" ayats="56:26"/>
+    <topic id="13"  name="Ad" ayats="7:65,7:74,9:70,11:50-60,22:42,25:38,26:123-140,29:38,38:12,41:15-16,46:21-26,50:13,51:41,53:50,54:18-21,69:4,69:6,89:6"/>
+    <topic id="14"  name="Adam" ayats="2:31-32,3:33,5:27,7:19-25,17:61,17:70,18:50,19:58,20:115-123,40:31,41:13,41:15"/>
+    <topic id="15" parent="14" name="angels to prostrate before" ayats="2:34,7:11"/>
+    <topic id="16" parent="14" name="tree of knowledge" ayats="2:35,7:19,20:120-121"/>
+    <topic id="17" parent="14" name="banishment from Garden (no blame to Eve)" ayats="2:36,7:24"/>
+    <topic id="18"  name="Adultery (see Marriage)" ayats=""/>
+    <topic id="19"  name="Adversity" ayats=""/>
+    <topic id="20" parent="19" name="not burdened beyond capability to withstand" ayats="2:286,6:152,7:42,23:62"/>
+    <topic id="21" parent="19" name="not burdened with another's burden" ayats="6:164,17:15,35:18,39:7,53:38"/>
+    <topic id="22" parent="19" name="patience during" ayats="2:153,2:155,2:177,2:250,3:17,3:125,3:142,3:146,3:186,3:200,7:87,7:126,7:128,7:137,8:46,8:65,8:66,10:109,11:11,11:49,11:115,12:18,12:83,12:90,13:22,16:96,16:110,16:126,21:85,22:35,23:111,28:54,29:59,30:60,31:17,31:31,37:102,38:44,39:10,40:55,40:77,41:35,42:33,46:35,47:31,70:5,76:12,90:17,103:3"/>
+    <topic id="23"  name="Aging" ayats="16:70,22:5,30:54,36:68"/>
+    <topic id="24" parent="23" name="behavior towards aging parents in your care" ayats="17:23"/>
+    <topic id="25"  name="Ahmad" ayats="61:6"/>
+    <topic id="26"  name="Al Rass" ayats="25:38,50:13"/>
+    <topic id="27"  name="Alcohol (see Intoxicants)" ayats=""/>
+    <topic id="28"  name="Allah" ayats=""/>
+    <topic id="29" parent="28" name="a day for Him is" ayats=""/>
+    <topic id="30" parent="29" name="a thousand human years" ayats="22:47,32:5"/>
+    <topic id="31" parent="29" name="fifty thousand years" ayats="70:4"/>
+    <topic id="32" parent="28" name="ability to do anything" ayats="2:106,2:117,3:165,3:189,8:41,9:116,11:4,16:40,40:68,41:39,42:49,57:2"/>
+    <topic id="33" parent="28" name="best of all judges" ayats="95:8"/>
+    <topic id="34" parent="28" name="beyond definition" ayats="43:82,67:12"/>
+    <topic id="35" parent="28" name="brings disbelievers schemes to nought" ayats="8:30,8:36"/>
+    <topic id="36" parent="28" name="cause human beings to disappear and bring forth other" ayats=""/>
+    <topic id="37" parent="28" name="beings" ayats="4:133,14:19,35:16"/>
+    <topic id="38" parent="28" name="causes laughter and crying" ayats="53:43"/>
+    <topic id="39" parent="28" name="caused a man to sleep for a century" ayats="2:259"/>
+    <topic id="40" parent="28" name="enemy of those who deny the truth" ayats="2:98"/>
+    <topic id="41" parent="28" name="extol his glory from morning until night" ayats="33:42"/>
+    <topic id="42" parent="28" name="false daughters of" ayats="16:57,17:40,43:16,52:39,53:21-22"/>
+    <topic id="43" parent="42" name="by name" ayats="53:19-20"/>
+    <topic id="44" parent="28" name="gives humans free will" ayats="36:67"/>
+    <topic id="45" parent="28" name="giving it all up for him" ayats="4:66-68,4:125"/>
+    <topic id="46" parent="28" name="good and evil are from Him" ayats="4:78"/>
+    <topic id="47" parent="28" name="grants life and death" ayats="44:8,53:44,57:2,67:2"/>
+    <topic id="48" parent="28" name="hard strivers rewarded better" ayats="4:95-96,5:54,9:120,49:15,61:11"/>
+    <topic id="49" parent="28" name="has no consort" ayats="72:3"/>
+    <topic id="50" parent="28" name="has no son" ayats="43:81,72:3,112:3"/>
+    <topic id="51" parent="28" name="has not forsaken you during your hard times" ayats="93:3"/>
+    <topic id="52" parent="28" name="is everywhere" ayats="2:115,2:142,2:177,4:126"/>
+    <topic id="53" parent="28" name="is the" ayats=""/>
+    <topic id="54" parent="53" name="First and the Last (alpha and omega)" ayats="57:3"/>
+    <topic id="55" parent="53" name="Outward and Inward" ayats="57:3"/>
+    <topic id="56" parent="28" name="knows that beyond comprehension" ayats="6:59,6:73,9:94,9:105,13:9,32:6,34:48,35:38,39:46,49:18,59:22,62:8,64:18,72:26,74:31,87:7"/>
+    <topic id="57" parent="28" name="loves those who behave equitably" ayats="49:9"/>
+    <topic id="58" parent="28" name="made no laws regarding that of which He didn't speak" ayats="5:101,6:140,6:148,7:32"/>
+    <topic id="59" parent="28" name="mercy towards prisoners of war who have good in them" ayats="8:70"/>
+    <topic id="60" parent="28" name="nature of" ayats="2:255"/>
+    <topic id="61" parent="28" name="no human is a divinity" ayats="3:64,3:151"/>
+    <topic id="62" parent="28" name="not a trinity" ayats="4:171"/>
+    <topic id="63" parent="28" name="refuge from evil with" ayats="113:1-5,114:1-6"/>
+    <topic id="64" parent="28" name="remembering him standing sitting lying down" ayats="3:191,4:103,10:12,25:64"/>
+    <topic id="65" parent="28" name="shapes you in the womb" ayats="3:6"/>
+    <topic id="66" parent="28" name="throne rests upon the water" ayats="11:7"/>
+    <topic id="67" parent="28" name="will create things of which you have no knowledge" ayats="16:8"/>
+    <topic id="68" parent="28" name="wills no wrong to His creation" ayats="3:108,4:40,17:71,21:47,22:10,26:209,40:31,41:46,45:22,50:29,64:11"/>
+    <topic id="69"  name="Alliances" ayats="8:72,9:7"/>
+    <topic id="70" parent="69" name="Christians and Jews" ayats="5:51"/>
+    <topic id="71" parent="69" name="forbidden with disbelieving kin" ayats="9:23"/>
+    <topic id="72" parent="69" name="forbidden with hypocrites" ayats="4:88-89,4:139,4:144"/>
+    <topic id="73"  name="Angels" ayats="2:30-34,2:98,2:285,4:97,8:50,13:23,21:108,22:75,25:22,25:25,32:11,33:43,33:56,34:40,35:1,37:150,38:71,39:75,41:14,41:30,42:5,43:53,43:60,47:27,53:26,66:4,66:6,69:17,70:4,89:22,97:4"/>
+    <topic id="74" parent="73" name="created from fire" ayats="7:12,38:76"/>
+    <topic id="75" parent="73" name="eight will bear Allah's throne aloft on Judgement Day" ayats="69:17"/>
+    <topic id="76" parent="73" name="false claim that they are female" ayats="43:19,53:27"/>
+    <topic id="77" parent="73" name="guardian" ayats="82:10-12,86:4"/>
+    <topic id="78" parent="73" name="nineteen lord over hell" ayats="74:30-31"/>
+    <topic id="79" parent="73" name="not sent to satisfy whims" ayats="15:7-8"/>
+    <topic id="80" parent="73" name="sent to inspire" ayats="16:2"/>
+    <topic id="81"  name="Anger" ayats=""/>
+    <topic id="82" parent="81" name="withhold" ayats="3:134"/>
+    <topic id="83"  name="Ants" ayats="27:18"/>
+    <topic id="84"  name="Apes" ayats="5:60"/>
+    <topic id="85" parent="84" name="despicable" ayats="2:65,7:166"/>
+    <topic id="86"  name="Apostacy" ayats="3:72,3:86-88,3:90-91,3:167,4:137,5:54,9:74,9:107,16:106,33:14"/>
+    <topic id="87" parent="86" name="do not ask for speedy doom for apostates" ayats="46:35"/>
+    <topic id="88" parent="87" name="Allah alone will punish them" ayats="73:11,74:11"/>
+    <topic id="89" parent="86" name="punishment in the hereafter" ayats="2:217,9:74"/>
+    <topic id="90" parent="86" name="rejection by others" ayats="3:87"/>
+    <topic id="91" parent="86" name="repentence" ayats="3:89,5:34,9:5,9:11"/>
+    <topic id="92" parent="91" name="on Judgement Day is too late" ayats="40:85"/>
+    <topic id="93" parent="86" name="under duress" ayats="16:106"/>
+    <topic id="94"  name="Arguments/Attacks" ayats=""/>
+    <topic id="95" parent="94" name="respond in kind" ayats="8:58,16:126"/>
+    <topic id="96" parent="95" name="being patient is far better" ayats="16:126"/>
+    <topic id="97"  name="Ark (see Noah)" ayats=""/>
+    <topic id="98"  name="Armor" ayats="16:81"/>
+    <topic id="99"  name="Astronomy" ayats=""/>
+    <topic id="100" parent="99" name="celestial mechanics" ayats="7:54,22:65"/>
+    <topic id="101" parent="100" name="moon" ayats="10:5,16:12,21:33,22:18,25:61,29:61,41:37,54:1,71:16,74:32,84:18,91:2"/>
+    <topic id="102" parent="100" name="solar and lunar orbits" ayats="6:96,10:5,13:2,14:33,21:33,31:29,35:13,36:38-40,39:5,55:5"/>
+    <topic id="103" parent="100" name="sun" ayats="10:5,16:12,21:33,22:18,25:45,25:61,29:61,41:37,71:16,78:13,81:1,91:1"/>
+    <topic id="104" parent="99" name="celestial navigation" ayats="6:97,16:16"/>
+    <topic id="105" parent="99" name="constellations" ayats="15:16,25:61,85:1"/>
+    <topic id="106" parent="99" name="motion of objects in the Universe" ayats="35:41,44:39,45:22,46:3,64:3,86:11"/>
+    <topic id="107" parent="99" name="objects impacting Earth" ayats="34:9"/>
+    <topic id="108" parent="99" name="planets" ayats="81:16"/>
+    <topic id="109" parent="99" name="Sirius (Alpha Canis Major)" ayats="53:49"/>
+    <topic id="110" parent="99" name="stars" ayats="22:18,37:88,51:7,79:1,81:2,86:3"/>
+    <topic id="111" parent="110" name="neighborhood of Earth populated by" ayats="37:6,41:12,67:5"/>
+    <topic id="112" parent="110" name="proper motion of" ayats="79:2-4"/>
+    <topic id="113" parent="110" name="revolving" ayats="81:15"/>
+    <topic id="114" parent="99" name="sunrise" ayats="37:5,55:17,70:40"/>
+    <topic id="115" parent="99" name="sunset" ayats="55:17,70:40,84:16"/>
+    <topic id="116"  name="Atoms (perhaps meant as ants originally?)" ayats="10:61,34:3,34:22,99:7-8"/>
+    <topic id="117"  name="Azar" ayats="6:74"/>
+    <topic id="118"  name="B" ayats=""/>
+    <topic id="119"  name="Baal" ayats="37:125"/>
+    <topic id="120"  name="Badr" ayats="8:42"/>
+    <topic id="121"  name="Bakkah" ayats=""/>
+    <topic id="122" parent="121" name="first temple" ayats="3:96"/>
+    <topic id="123"  name="Beasts" ayats="6:38,22:18,25:49,36:71,42:11,43:12,45:4"/>
+    <topic id="124"  name="Bedouin" ayats="9:90-99,9:101-106,33:20,48:11,48:16,49:14"/>
+    <topic id="125"  name="Bees" ayats="16:68"/>
+    <topic id="126"  name="Behavior" ayats=""/>
+    <topic id="127" parent="126" name="argue in a kindly manner with those given earlier" ayats=""/>
+    <topic id="128" parent="126" name="revelation" ayats="16:125,29:46"/>
+    <topic id="129" parent="126" name="avoid becoming involved in matters you know nothing of" ayats="17:36"/>
+    <topic id="130" parent="126" name="avoid grave sins and shameful deeds" ayats="53:32"/>
+    <topic id="131" parent="126" name="avoid guesswork about one another" ayats="49:12"/>
+    <topic id="132" parent="126" name="be just in your opinions" ayats="6:152"/>
+    <topic id="133" parent="126" name="community should be moderate" ayats="2:143,25:67"/>
+    <topic id="134" parent="126" name="conceit discouraged" ayats="4:36,57:23"/>
+    <topic id="135" parent="126" name="don't chide those who seek your help" ayats="93:10"/>
+    <topic id="136" parent="126" name="don't consider yourself pure" ayats="53:32"/>
+    <topic id="137" parent="126" name="don't deride others" ayats="49:11,104:1"/>
+    <topic id="138" parent="126" name="don't mention evil things openly" ayats="4:148"/>
+    <topic id="139" parent="126" name="don't speak ill of each other" ayats="49:12,104:1"/>
+    <topic id="140" parent="126" name="don't spy on each other" ayats="49:12"/>
+    <topic id="141" parent="126" name="each group given a law and way of life" ayats="2:148,5:48,10:47,10:74,13:38,16:36,16:63,16:84"/>
+    <topic id="142" parent="141" name="and a prophet" ayats="10:47,16:36"/>
+    <topic id="143" parent="141" name="and a way of worship" ayats="22:67"/>
+    <topic id="144" parent="141" name="Allah could have made them one community" ayats="5:48,11:118,16:93,42:8"/>
+    <topic id="145" parent="144" name="one community under Allah" ayats="21:92"/>
+    <topic id="146" parent="126" name="forgive Jews who distort the Qur'an" ayats="5:13"/>
+    <topic id="147" parent="126" name="forgive non-believers" ayats="31:15,45:14"/>
+    <topic id="148" parent="126" name="forgive readily" ayats="42:37"/>
+    <topic id="149" parent="126" name="maligning believers is sinful" ayats="33:58"/>
+    <topic id="150" parent="126" name="men (toward women)" ayats="24:30"/>
+    <topic id="151" parent="126" name="peacemakers rewarded" ayats="42:40"/>
+    <topic id="152" parent="126" name="rulers make decisions after consultations" ayats="42:38"/>
+    <topic id="153" parent="126" name="speak justly toward those in want if you can do nothing" ayats=""/>
+    <topic id="154" parent="126" name="else" ayats="17:28"/>
+    <topic id="155" parent="126" name="towards aging parents in your care" ayats="17:23"/>
+    <topic id="156" parent="126" name="towards other Muslims" ayats="33:6"/>
+    <topic id="157" parent="126" name="towards others" ayats="17:26-29,17:35,17:53,60:8"/>
+    <topic id="158" parent="126" name="towards parents" ayats="46:15"/>
+    <topic id="159" parent="126" name="towards slaves" ayats="4:36,24:33"/>
+    <topic id="160" parent="126" name="treat non-belligerent non-believers with equity" ayats="60:8"/>
+    <topic id="161" parent="126" name="wives of the Prophet" ayats="33:28-34"/>
+    <topic id="162" parent="126" name="women (toward men)" ayats="24:31"/>
+    <topic id="163"  name="Belief" ayats=""/>
+    <topic id="164" parent="163" name="in all revelations" ayats="2:136,2:285"/>
+    <topic id="165" parent="163" name="nature of" ayats="49:14-15"/>
+    <topic id="166"  name="Believers" ayats="2:2-5,2:285,8:2-4,8:24"/>
+    <topic id="167"  name="Bible" ayats="5:64,5:65,5:68"/>
+    <topic id="168" parent="167" name="distortion of" ayats="3:78,5:14-15"/>
+    <topic id="169"  name="Biology" ayats=""/>
+    <topic id="170" parent="169" name="living things made of water ?" ayats="11:7,21:30,24:45,25:54"/>
+    <topic id="171"  name="Birds" ayats="6:38,16:79,21:41,27:16,27:17,27:20,34:10,38:19,67:19"/>
+    <topic id="172"  name="Borders (jurisdictional boundaries)" ayats="8:72"/>
+    <topic id="173"  name="Botany" ayats="13:4,39:21"/>
+    <topic id="174" parent="173" name="two sexes to every plant" ayats="13:3"/>
+    <topic id="175"  name="Booty" ayats="48:15,59:6-7"/>
+    <topic id="176" parent="175" name="enjoy that which is lawful and good" ayats="8:69"/>
+    <topic id="177" parent="175" name="must not benefit those already rich" ayats="59:7"/>
+    <topic id="178" parent="175" name="one fifth goes for charity" ayats="8:41"/>
+    <topic id="179"  name="Builders" ayats="38:37"/>
+    <topic id="180"  name="Burden (see Adversity)" ayats=""/>
+    <topic id="181"  name="Burial" ayats=""/>
+    <topic id="182" parent="181" name="indirect reference to?" ayats="5:31"/>
+    <topic id="183"  name="Business" ayats=""/>
+    <topic id="184" parent="183" name="be fair in dealings" ayats="6:152,17:35"/>
+    <topic id="185"  name="Byzantines" ayats="30:2-4"/>
+    <topic id="186"  name="C" ayats=""/>
+    <topic id="187"  name="Cain and Abel" ayats="5:27-31"/>
+    <topic id="188"  name="Calendar" ayats=""/>
+    <topic id="189" parent="188" name="lunar" ayats="2:189,10:5"/>
+    <topic id="190" parent="189" name="correctness" ayats=""/>
+    <topic id="191" parent="189" name="of" ayats="9:37"/>
+    <topic id="192" parent="191" name="disbelievers tamper with annual intercalation" ayats="9:37"/>
+    <topic id="193"  name="Canaan" ayats="5:12"/>
+    <topic id="194"  name="Cattle" ayats="16:5-7,16:66,22:28,23:21,39:6,47:12"/>
+    <topic id="195"  name="Captives" ayats="8:67,8:70"/>
+    <topic id="196"  name="Charity" ayats="2:43,2:110,2:177,2:262-264,2:271-274,2:277,3:92,3:134,4:39,5:12,5:55,9:5,9:18,9:60,9:71,9:121,21:73,22:41,22:78,24:37,27:3,30:38-39,31:4,36:47,41:7,47:36-38,51:19,52:40,57:7,57:10-12,63:10,64:16-17,73:20,76:8,92:18,98:5,107:7"/>
+    <topic id="197" parent="196" name="during consultation with the Prophet" ayats="58:12-13"/>
+    <topic id="198" parent="196" name="during the Hajj" ayats="22:36"/>
+    <topic id="199" parent="196" name="niggardliness" ayats="3:180,4:37,25:67,47:37,57:24,92:8"/>
+    <topic id="200" parent="196" name="not payment for favors received" ayats="92:19"/>
+    <topic id="201" parent="196" name="precedence of spending" ayats="2:215,2:219"/>
+    <topic id="202" parent="196" name="sharing food" ayats="24:61,89:18,107:3"/>
+    <topic id="203" parent="196" name="spending to earn praise forbidden" ayats="4:38"/>
+    <topic id="204" parent="196" name="those displeased with distribution of" ayats="9:58,9:76"/>
+    <topic id="205" parent="196" name="towards slaves" ayats="16:71"/>
+    <topic id="206"  name="Chastity" ayats="23:5,24:33,70:29"/>
+    <topic id="207"  name="Children" ayats="16:72,17:64,18:46,19:77,26:133,34:35,34:37,40:67,46:15,57:20,58:17,63:9,64:14,64:15,65:7,68:14,71:12,71:22,74:13,80:36"/>
+    <topic id="208" parent="207" name="adopted ones should be named after their fathers" ayats="33:5"/>
+    <topic id="209" parent="207" name="baby daughters wrongly thought an evil sign" ayats="16:58-59,43:18,53:21-22"/>
+    <topic id="210" parent="207" name="breast feed for two years" ayats="2:233,31:34"/>
+    <topic id="211" parent="207" name="do not kill for fear of poverty" ayats="6:151,17:31"/>
+    <topic id="212" parent="207" name="female offspring buried alive will ask for what crime she'd" ayats=""/>
+    <topic id="213" parent="207" name="been slain" ayats="81:8-9"/>
+    <topic id="214" parent="207" name="gift of female offspring" ayats="42:49"/>
+    <topic id="215" parent="207" name="gift of male offspring" ayats="42:49"/>
+    <topic id="216" parent="207" name="helpless" ayats="4:127"/>
+    <topic id="217" parent="207" name="ignorant at time of birth" ayats="16:78"/>
+    <topic id="218" parent="207" name="in Heaven" ayats="40:8,52:24,56:17"/>
+    <topic id="219" parent="207" name="of Adam" ayats="36:60"/>
+    <topic id="220" parent="207" name="of Israel" ayats="2:40,2:47,2:72,3:180,5:12,5:70,5:78,7:105,10:90,17:2,17:4,17:101,17:104,20:47,20:80,20:94,26:17,26:22,26:59,26:197,27:76,32:23,40:53,43:59,44:30,45:16,46:10,61:6,61:14"/>
+    <topic id="221" parent="220" name="commandment concerning killing by" ayats="5:32"/>
+    <topic id="222" parent="207" name="pre-Islamic customs of slaying children" ayats="6:137,6:140"/>
+    <topic id="223" parent="207" name="wet nurses" ayats="2:233"/>
+    <topic id="224"  name="Christians" ayats="5:14,5:19,5:64-65,5:69,22:17"/>
+    <topic id="225" parent="224" name="and Jews (see Jews)" ayats=""/>
+    <topic id="226" parent="224" name="asked not to deify Jesus" ayats="4:171"/>
+    <topic id="227" parent="224" name="come closest to feeling affection to Muslims" ayats="5:82"/>
+    <topic id="228" parent="224" name="most have forgotten what they've been told to bear in mind" ayats="5:14"/>
+    <topic id="229" parent="224" name="now comes to you a messenger" ayats="5:15,5:19"/>
+    <topic id="230" parent="224" name="righteous will be rewarded" ayats="2:62,5:65,5:69"/>
+    <topic id="231" parent="224" name="say Jesus is Allah's son" ayats="9:30"/>
+    <topic id="232"  name="Churches" ayats="22:40"/>
+    <topic id="233"  name="Clothing" ayats="7:26,16:81"/>
+    <topic id="234" parent="233" name="of fire" ayats="22:19"/>
+    <topic id="235" parent="233" name="the veil or women's clothing in non-household situations" ayats="24:31"/>
+    <topic id="236" parent="233" name="women's outer garments prevent harassment by hypocrites" ayats="33:59-60"/>
+    <topic id="237"  name="Commandments" ayats=""/>
+    <topic id="238" parent="237" name="general religious" ayats="2:42-45,2:83,2:110,2:177,3:113-114,3:134,5:12,5:55,6:151-153,7:33,7:156,8:3,9:18,9:20,9:86,9:112,10:87,10:93,13:22,14:31,16:90,16:110,22:41,22:78,24:57,25:68,26:181-184,26:227,31:3-4,31:14-19,35:29,42:36-43,58:13,73:20,90:13-17,98:5"/>
+    <topic id="239" parent="237" name="kindness towards others" ayats="4:36"/>
+    <topic id="240" parent="237" name="leave company of those in the act of mocking Allah's law" ayats="4:140,6:68"/>
+    <topic id="241"  name="Communications (attempting to divine the future is forbidden)" ayats=""/>
+    <topic id="242" parent="241" name="overhearing the Host on high" ayats="15:18,37:8,72:9"/>
+    <topic id="243"  name="Conservation" ayats="6:141,7:31"/>
+    <topic id="244"  name="Contract Law" ayats=""/>
+    <topic id="245" parent="244" name="contract must be in writing" ayats="2:282"/>
+    <topic id="246" parent="244" name="during journey a person's word is acceptable" ayats="2:283"/>
+    <topic id="247" parent="244" name="when things go wrong don't punish scribe or witness" ayats="2:282"/>
+    <topic id="248" parent="244" name="witnesses told to be truthful" ayats="2:283,5:8,25:72"/>
+    <topic id="249" parent="244" name="witnessing (two men or one man and two women)" ayats="2:282"/>
+    <topic id="250"  name="Corruption" ayats="5:32,8:73,30:41"/>
+    <topic id="251"  name="Cosmology" ayats=""/>
+    <topic id="252" parent="251" name="age of the Universe" ayats="76:1"/>
+    <topic id="253" parent="251" name="expanding Universe" ayats="51:47"/>
+    <topic id="254" parent="251" name="The Big Bang" ayats="21:30"/>
+    <topic id="255"  name="Covenants" ayats="5:1"/>
+    <topic id="256" parent="255" name="breaking of (see also Oaths)" ayats="8:58"/>
+    <topic id="257" parent="255" name="with disbelievers" ayats="8:56,8:72,9:4,9:7"/>
+    <topic id="258" parent="257" name="breaking of" ayats="8:58,9:12"/>
+    <topic id="259"  name="Creation of everything" ayats=""/>
+    <topic id="260" parent="259" name="in due measure and proportion" ayats="54:49"/>
+    <topic id="261" parent="259" name="in opposite duality" ayats="36:36,43:12,51:49"/>
+    <topic id="262"  name="Creatures" ayats="6:38,42:47,42:49"/>
+    <topic id="263"  name="Crystal" ayats="76:15-16"/>
+    <topic id="264"  name="Customs" ayats=""/>
+    <topic id="265" parent="264" name="used but not given as reliable traditions or Qur'anic" ayats=""/>
+    <topic id="266" parent="264" name="injunctions" ayats="2:170,5:3,5:104,6:138"/>
+    <topic id="267"  name="D" ayats=""/>
+    <topic id="268"  name="Danger" ayats=""/>
+    <topic id="269" parent="268" name="be prepared for" ayats="4:71"/>
+    <topic id="270"  name="Date palms" ayats="36:34,50:10,55:11,55:68,59:5,80:29"/>
+    <topic id="271"  name="Dates" ayats="50:10"/>
+    <topic id="272"  name="David" ayats="4:163,5:78,6:84,17:55,21:78,21:79,27:15-16,34:10,34:13,38:17,38:21-26,38:30"/>
+    <topic id="273" parent="272" name="and Bath Sheba" ayats="38:23"/>
+    <topic id="274" parent="272" name="and Goliath" ayats="2:251"/>
+    <topic id="275" parent="272" name="given the Psalms" ayats="4:163"/>
+    <topic id="276"  name="Death" ayats="3:185,3:193,4:78,21:35,33:19,33:23,44:56,47:27,56:60,56:84-87,63:10,75:29"/>
+    <topic id="277" parent="276" name="and flight from battle" ayats="33:16"/>
+    <topic id="278" parent="276" name="in Allah's cause" ayats="3:195,22:58,47:4"/>
+    <topic id="279" parent="276" name="those communities who have no revelation will not be" ayats=""/>
+    <topic id="280" parent="276" name="destroyed" ayats="6:131,9:115,10:47,11:117,15:4,16:119,17:15,28:59"/>
+    <topic id="281" parent="276" name="those slain in Allah's cause are alive" ayats="2:154,3:169"/>
+    <topic id="282" parent="276" name="while fleeing evil towards Allah" ayats="4:100"/>
+    <topic id="283"  name="Deities" ayats=""/>
+    <topic id="284" parent="283" name="none besides Allah" ayats="25:68"/>
+    <topic id="285"  name="Disbelievers (see also Hypocrites)" ayats=""/>
+    <topic id="286" parent="285" name="ask Muhammad to invoke Allah's wrath upon them as proof" ayats="6:57-58,8:32,10:49-52"/>
+    <topic id="287" parent="285" name="bear their company in kindness" ayats="31:15"/>
+    <topic id="288" parent="285" name="bear what they say in patience" ayats="20:130,50:39"/>
+    <topic id="289" parent="285" name="covenants with" ayats="8:56,8:72,9:4,9:7"/>
+    <topic id="290" parent="289" name="breaking of" ayats="8:58,9:12"/>
+    <topic id="291" parent="285" name="Allah brings their scheming to nought" ayats="8:30,8:36"/>
+    <topic id="292" parent="285" name="leave company of those in the act of mocking Allah's law" ayats="4:140,6:68"/>
+    <topic id="293" parent="285" name="protect them if they ask you to" ayats="9:6"/>
+    <topic id="294" parent="285" name="punishment" ayats=""/>
+    <topic id="295" parent="294" name="during war" ayats="8:12,8:50,8:59"/>
+    <topic id="296" parent="294" name="in the hereafter" ayats="8:37"/>
+    <topic id="297" parent="285" name="should not visit or take care of mosques" ayats="9:17"/>
+    <topic id="298" parent="285" name="speak kindly to them" ayats="17:53"/>
+    <topic id="299" parent="285" name="striving hard against" ayats="9:73,25:52,66:9"/>
+    <topic id="300" parent="285" name="treat non-belligerents with equity" ayats="60:8"/>
+    <topic id="301" parent="285" name="will only ally with other disbelievers" ayats="8:72"/>
+    <topic id="302"  name="Disciples (of Jesus)" ayats="3:52,61:14"/>
+    <topic id="303"  name="Divers" ayats="38:37"/>
+    <topic id="304"  name="Diversity" ayats=""/>
+    <topic id="305" parent="304" name="of humans" ayats="30:22,35:27-28"/>
+    <topic id="306" parent="304" name="of life" ayats="35:27-28"/>
+    <topic id="307"  name="Divorce" ayats="4:130,65:1"/>
+    <topic id="308" parent="307" name="after waiting period dissolve or reconcile" ayats="2:231,65:2"/>
+    <topic id="309" parent="308" name="two witnesses" ayats="65:2"/>
+    <topic id="310" parent="307" name="alimony" ayats="2:233,2:241"/>
+    <topic id="311" parent="310" name="extends to ex-husband's heir" ayats="2:233"/>
+    <topic id="312" parent="307" name="can be revoked twice" ayats="2:229"/>
+    <topic id="313" parent="307" name="dowry status" ayats="2:229,2:236-237"/>
+    <topic id="314" parent="307" name="find wet-nurse if necessary" ayats="65:6"/>
+    <topic id="315" parent="307" name="Man" ayats=""/>
+    <topic id="316" parent="315" name="divorce one woman for another - don't take back what you" ayats=""/>
+    <topic id="317" parent="315" name="gave first" ayats="4:20"/>
+    <topic id="318" parent="315" name="don't harass wife" ayats="65:6"/>
+    <topic id="319" parent="315" name="don't hold wives against their will" ayats="4:19"/>
+    <topic id="320" parent="315" name="four months to change his mind" ayats="2:226"/>
+    <topic id="321" parent="315" name="support wife fully" ayats=""/>
+    <topic id="322" parent="321" name="during her pregnancy" ayats="65:6"/>
+    <topic id="323" parent="321" name="during her waiting period" ayats="65:6"/>
+    <topic id="324" parent="321" name="if she's nursing your child" ayats="65:6"/>
+    <topic id="325" parent="307" name="mother shouldn't suffer because of her fatherless child" ayats="2:233"/>
+    <topic id="326" parent="307" name="pre-Islamic" ayats="58:2"/>
+    <topic id="327" parent="326" name="contrition to reconcile" ayats=""/>
+    <topic id="328" parent="327" name="fast for 2 consecutive months" ayats="58:4"/>
+    <topic id="329" parent="327" name="feed 60 needy people" ayats="58:4"/>
+    <topic id="330" parent="327" name="free a slave" ayats="58:3"/>
+    <topic id="331" parent="307" name="reconciliation attempt" ayats="4:35"/>
+    <topic id="332" parent="307" name="sinless if marriage unconsummated" ayats="2:236"/>
+    <topic id="333" parent="332" name="bride entitled to half of the dowry" ayats="2:237"/>
+    <topic id="334" parent="307" name="Woman" ayats=""/>
+    <topic id="335" parent="334" name="after third divorce (this one from another husband) can" ayats=""/>
+    <topic id="336" parent="334" name="return to original husband" ayats="2:229"/>
+    <topic id="337" parent="334" name="entitled to maintenance" ayats="2:241,65:1"/>
+    <topic id="338" parent="334" name="equal right to divorce" ayats="2:228"/>
+    <topic id="339" parent="334" name="fear ill treatment by husband" ayats="4:128"/>
+    <topic id="340" parent="334" name="may keep what her husband gave her" ayats="2:229"/>
+    <topic id="341" parent="334" name="not to be expelled from their homes" ayats="65:1"/>
+    <topic id="342" parent="334" name="three menstruation wait to disprove pregnancy" ayats="2:228"/>
+    <topic id="343" parent="334" name="three month wait for those free of menstruation" ayats="65:4"/>
+    <topic id="344" parent="343" name="unless marriage unconsummated" ayats="33:49"/>
+    <topic id="345"  name="Dogs" ayats="7:176"/>
+    <topic id="346"  name="Donkeys" ayats="16:8,31:19"/>
+    <topic id="347"  name="Drugs (see Intoxicants)" ayats=""/>
+    <topic id="348"  name="E" ayats=""/>
+    <topic id="349"  name="Earth" ayats="51:20,51:48,91:6"/>
+    <topic id="350" parent="349" name="changed into" ayats=""/>
+    <topic id="351" parent="349" name="another earth" ayats="14:48"/>
+    <topic id="352" parent="349" name="creation of" ayats="3:190,79:30"/>
+    <topic id="353" parent="352" name="in six" ayats=""/>
+    <topic id="354" parent="352" name="days" ayats="7:54,10:3,11:7,25:59,50:38,57:4"/>
+    <topic id="355" parent="352" name="in two" ayats=""/>
+    <topic id="356" parent="352" name="days" ayats="41:9"/>
+    <topic id="357" parent="356" name="the rest" ayats=""/>
+    <topic id="358" parent="356" name="in the other four" ayats="41:10"/>
+    <topic id="359" parent="349" name="inclination of rotational axis to orbital plane" ayats="22:61,57:6"/>
+    <topic id="360" parent="349" name="rotation of" ayats="3:190,7:54,10:6,13:3,14:33,25:62,39:5,41:37,45:5"/>
+    <topic id="361"  name="Earthquake" ayats="7:78,7:91,7:155,7:171,16:26,17:37,17:68,29:37,34:9,67:16,69:5,99:1"/>
+    <topic id="362"  name="Elephant" ayats="105:1"/>
+    <topic id="363"  name="Elijah" ayats="6:85,37:123-130"/>
+    <topic id="364"  name="Elisha" ayats="6:86,38:48"/>
+    <topic id="365"  name="Embryology" ayats="22:5,23:14,35:11,40:67,75:37-39"/>
+    <topic id="366"  name="Evolution (?)" ayats="71:14,71:18"/>
+    <topic id="367"  name="Ezra" ayats="9:30"/>
+    <topic id="368"  name="F" ayats=""/>
+    <topic id="369"  name="Family" ayats="8:75"/>
+    <topic id="370"  name="Fasting" ayats="2:183-184"/>
+    <topic id="371" parent="370" name="during the Hajj" ayats="2:196"/>
+    <topic id="372" parent="370" name="during Ramadhan" ayats="2:185"/>
+    <topic id="373" parent="370" name="exemptions" ayats="2:184-185"/>
+    <topic id="374" parent="370" name="hours of" ayats="2:187"/>
+    <topic id="375"  name="Fig" ayats="95:1"/>
+    <topic id="376"  name="Fighting" ayats="9:14,9:123,22:39,47:4,48:16"/>
+    <topic id="377" parent="376" name="aggression" ayats=""/>
+    <topic id="378" parent="377" name="forbidden" ayats="2:190,4:90,60:8"/>
+    <topic id="379" parent="377" name="sin of" ayats="5:2"/>
+    <topic id="380" parent="376" name="be brave" ayats="4:104"/>
+    <topic id="381" parent="376" name="between two groups of believers" ayats="49:9"/>
+    <topic id="382" parent="376" name="do not aquire slaves except through war" ayats="8:67"/>
+    <topic id="383" parent="376" name="do not beg for peace" ayats="47:35"/>
+    <topic id="384" parent="376" name="exemptions" ayats="9:122,48:17"/>
+    <topic id="385" parent="384" name="asking for it for wrong reasons" ayats="9:43,9:45,9:49,9:86,9:93"/>
+    <topic id="386" parent="384" name="for helpless" ayats="4:98,9:91"/>
+    <topic id="387" parent="384" name="for ill" ayats="4:102,9:91"/>
+    <topic id="388" parent="376" name="if foes cease then you must cease" ayats="2:193,4:90,8:37,8:61"/>
+    <topic id="389" parent="376" name="forbidden during the four sacred months" ayats="9:36"/>
+    <topic id="390" parent="389" name="unless attacked" ayats="2:194,2:217"/>
+    <topic id="391" parent="376" name="free slaves after fighting ends" ayats="47:4"/>
+    <topic id="392" parent="376" name="go forth humbly" ayats="8:47"/>
+    <topic id="393" parent="376" name="in Allah's cause" ayats="4:74,4:77,4:84,9:38-39,9:41"/>
+    <topic id="394" parent="376" name="killing only during hostilities in progress" ayats="2:191,4:89,4:91,5:33,8:39,8:57,9:5,9:12"/>
+    <topic id="395" parent="376" name="not for material gain" ayats="4:94"/>
+    <topic id="396" parent="376" name="prepare well" ayats="8:60"/>
+    <topic id="397" parent="376" name="repentence of recent belligerents" ayats="5:34,9:5,9:11"/>
+    <topic id="398" parent="376" name="when ordained" ayats="2:190-193,2:216-217,4:91,22:39,60:8"/>
+    <topic id="399"  name="Fire" ayats="56:71,100:2"/>
+    <topic id="400"  name="Food (see also Health rules)" ayats="3:93,35:12,40:79,80:24"/>
+    <topic id="401" parent="400" name="blessing of" ayats="6:118,6:138"/>
+    <topic id="402" parent="400" name="forbidden" ayats="2:173,5:3,6:121,6:145,16:115"/>
+    <topic id="403" parent="400" name="lawful" ayats="2:168,5:4,6:118,6:146"/>
+    <topic id="404"  name="Forgetting" ayats="17:86,18:24,87:6-7"/>
+    <topic id="405"  name="Fornication (see Marriage)" ayats=""/>
+    <topic id="406"  name="Friends" ayats="8:72"/>
+    <topic id="407" parent="406" name="avoid active disbelievers" ayats="3:118-120,5:57,15:94,58:14,60:1,60:13"/>
+    <topic id="408" parent="406" name="leave company of those in the act of mocking Allah's law" ayats="4:140,6:68"/>
+    <topic id="409" parent="406" name="forbidden are those who fight against you because of your" ayats=""/>
+    <topic id="410" parent="406" name="religion" ayats="60:9"/>
+    <topic id="411"  name="Future" ayats=""/>
+    <topic id="412" parent="411" name="learning of it through divination forbidden" ayats="5:3,5:90,15:18,37:8,72:9"/>
+    <topic id="413"  name="G" ayats=""/>
+    <topic id="414"  name="Gabriel" ayats="2:97,66:4"/>
+    <topic id="415"  name="Games of Chance" ayats=""/>
+    <topic id="416" parent="415" name="forbidden" ayats="2:219,5:20,5:91"/>
+    <topic id="417"  name="Geographic locations and History" ayats=""/>
+    <topic id="418" parent="417" name="As Safa and Al Marwah" ayats="2:158"/>
+    <topic id="419" parent="417" name="first temple at Bakkah" ayats="3:96"/>
+    <topic id="420"  name="Ginger" ayats="76:12"/>
+    <topic id="421"  name="Goddesses of the pagan Arabs" ayats="53:19"/>
+    <topic id="422" parent="421" name="names of" ayats="53:19-20"/>
+    <topic id="423" parent="421" name="nature of" ayats="53:19-28"/>
+    <topic id="424"  name="Gods of pre-Islamic Arabs by name" ayats="71:23"/>
+    <topic id="425"  name="Gog and Magog" ayats="21:96"/>
+    <topic id="426"  name="Gold" ayats="35:33,43:35,43:71,56:15"/>
+    <topic id="427"  name="Golden armlets" ayats="43:53"/>
+    <topic id="428"  name="Golden Calf" ayats="2:51,2:54,4:153,7:148,7:152,20:88"/>
+    <topic id="429" parent="428" name="and thunderbolt of punishment" ayats="2:55"/>
+    <topic id="430" parent="428" name="forgiven after destruction of" ayats="2:36-37"/>
+    <topic id="431"  name="Goliath" ayats="2:249"/>
+    <topic id="432" parent="431" name="and David" ayats="2:251"/>
+    <topic id="433"  name="Gospel" ayats="3:3,3:65,5:46-47,5:66,5:68,5:77,5:110,7:157,9:111,48:29,57:27"/>
+    <topic id="434"  name="Government" ayats=""/>
+    <topic id="435" parent="434" name="decision making in public matters" ayats="3:159"/>
+    <topic id="436" parent="434" name="rulers make decisions after consultations" ayats="42:38"/>
+    <topic id="437"  name="Grain" ayats="36:33,55:12"/>
+    <topic id="438"  name="Grave" ayats="9:84,22:7,35:22,36:51,54:7,60:13,70:43,77:26,80:21,82:4,100:9,102:2"/>
+    <topic id="439"  name="Greed (see Materialism)" ayats=""/>
+    <topic id="440"  name="Greetings" ayats="4:86"/>
+    <topic id="441"  name="Guardianship" ayats=""/>
+    <topic id="442" parent="441" name="proper conduct of" ayats="4:5-6,6:151"/>
+    <topic id="443" parent="441" name="punishment for bad ones" ayats="4:10"/>
+    <topic id="444" parent="441" name="when to end it" ayats="4:6"/>
+    <topic id="445" parent="441" name="witnesses required to end it" ayats="4:6"/>
+    <topic id="446"  name="H" ayats=""/>
+    <topic id="447"  name="Hagar" ayats=""/>
+    <topic id="448" parent="447" name="and Ishmael" ayats="2:158"/>
+    <topic id="449"  name="Hajj" ayats="2:158,2:189,2:196-199,22:27-36"/>
+    <topic id="450" parent="449" name="abstention from quarreling during" ayats="2:197"/>
+    <topic id="451" parent="449" name="duty to visit Mecca (Makkah)" ayats="3:97"/>
+    <topic id="452" parent="449" name="exemption from" ayats="2:196"/>
+    <topic id="453" parent="449" name="fasting during" ayats="2:196"/>
+    <topic id="454" parent="449" name="hunting forbidden" ayats="5:1,5:94-95"/>
+    <topic id="455" parent="454" name="aquatic game approved during" ayats="5:96"/>
+    <topic id="456" parent="454" name="violate it once? Don't do it twice!" ayats="5:95"/>
+    <topic id="457" parent="456" name="reparations for doing it once" ayats="5:95"/>
+    <topic id="458" parent="449" name="rules" ayats="5:2"/>
+    <topic id="459" parent="449" name="sacrifice during" ayats="2:196"/>
+    <topic id="460"  name="Haman" ayats="28:6,28:8,28:38,29:39,40:24,40:36"/>
+    <topic id="461"  name="Harut and Marut" ayats="2:102"/>
+    <topic id="462"  name="Health rules" ayats="41:44"/>
+    <topic id="463" parent="462" name="children" ayats=""/>
+    <topic id="464" parent="463" name="breast feed for two years" ayats="2:233,31:34"/>
+    <topic id="465" parent="462" name="food" ayats="2:173,5:1,5:3,5:5,5:96,6:118-119,6:121,6:142,6:145-146,16:115"/>
+    <topic id="466" parent="465" name="caught by your hunting animals" ayats="5:4"/>
+    <topic id="467" parent="462" name="intoxicants forbidden (see Intoxicants)" ayats=""/>
+    <topic id="468" parent="462" name="menstruation" ayats="2:222"/>
+    <topic id="469"  name="Hearing" ayats="41:22"/>
+    <topic id="470"  name="Heaven" ayats="2:25,3:15,3:136,3:181,3:195,3:198"/>
+    <topic id="471" parent="470" name="filled with mighty guards and flames" ayats="72:8"/>
+    <topic id="472" parent="470" name="immortal youths in" ayats="56:17,76:19"/>
+    <topic id="473" parent="470" name="parents united with offspring" ayats="52:21,56:36"/>
+    <topic id="474" parent="470" name="pure spouses in" ayats="2:25,3:15"/>
+    <topic id="475" parent="470" name="several" ayats="2:29,2:164,3:129,6:73,6:101,17:44,55:30,65:12,67:3,71:15,78:12"/>
+    <topic id="476" parent="470" name="virgin mates of modest gaze" ayats="55:56,55:72-74,56:22"/>
+    <topic id="477"  name="Hell (the fire the blazing flame)" ayats="2:24,2:119,2:161,2:166,2:201,3:10,3:12,3:116,3:131,3:151,3:162,3:192,4:55-56,4:93,4:97,4:114,4:121,4:169,5:10,5:37,5:72,5:86,6:27,6:70,6:128,7:18,7:36,7:38,7:41,7:50,7:179,8:16,8:36,8:50,9:17,9:35,9:49,9:63,9:68,9:73,9:81,9:95,9:109,9:113,10:8,10:27,11:16,11:17,11:98,11:106,11:113,11:119,13:5,13:18,13:35,14:16,14:49,15:43,16:29,16:62,17:8,17:18,17:39,17:63,17:97,18:29,18:53,18:100,18:106,19:68,19:70,19:86,20:74,21:39,21:98,22:4,22:9,22:19-22,22:51,22:72,23:103-104,24:57,25:11-13,25:34,25:65,26:91,26:94,27:90,28:41,29:25,29:54,29:68,31:21,32:13,32:20,33:64,33:66,34:12,34:42,35:6,35:36,36:63,37:10,37:23,37:55,37:63,37:68,37:163,38:27,38:56,38:59,38:61,38:64,38:85,39:8,39:16,39:19,39:32,39:60,39:71,39:72,40:6,40:7,40:41,40:43,40:46,40:47,40:49,40:60,40:72,40:76,41:19,41:24,41:28,41:40,42:7,43:74,44:47,44:56,45:10,45:34,45:35,46:20,46:34,47:12,47:15,48:6,48:13,50:24,50:30,51:13,52:13-16,52:18,54:48,55:43,56:94,57:15,57:19,58:8,58:17,59:3,59:17,59:20,64:10,66:6,66:9,66:10,67:5-10,69:31,70:15,71:25,72:15,72:23,73:12-13,74:26-31,74:42,76:4,77:31,78:21,79:36,79:39,81:12,82:14,83:16,84:12,85:10,87:12,88:4,89:23,90:20,92:14,98:6,101:9-11,102:6,104:6-9,111:3"/>
+    <topic id="478" parent="477" name="burning despair and ice cold darkness in" ayats="38:57"/>
+    <topic id="479" parent="477" name="chain of 70 cubits" ayats="69:32"/>
+    <topic id="480" parent="477" name="inmates will neither die nor remain alive" ayats="87:13"/>
+    <topic id="481" parent="477" name="stay for a limited duration" ayats="78:23"/>
+    <topic id="482"  name="History" ayats=""/>
+    <topic id="483" parent="482" name="study it" ayats="3:137,12:110-111,14:5"/>
+    <topic id="484"  name="Homosexuality" ayats=""/>
+    <topic id="485" parent="484" name="regarded as evil" ayats="26:165-166,27:55,29:28-29"/>
+    <topic id="486"  name="Honey" ayats="16:69,47:15"/>
+    <topic id="487"  name="Horses" ayats="16:8,17:64"/>
+    <topic id="488"  name="Housing" ayats="16:80"/>
+    <topic id="489"  name="Hud" ayats="7:65-72,11:50-57,11:89,26:124-138,46:21-25"/>
+    <topic id="490"  name="Humankind" ayats="55:33,91:7-8"/>
+    <topic id="491" parent="490" name="born with a restless disposition" ayats="70:19"/>
+    <topic id="492" parent="490" name="created in fine form" ayats="95:4"/>
+    <topic id="493" parent="490" name="created in pairs" ayats="78:8,92:3"/>
+    <topic id="494" parent="490" name="creation of" ayats="2:30,4:1,6:98,7:189,10:4,15:26,15:28,15:33,39:6,71:14,96:2"/>
+    <topic id="495" parent="494" name="from a drop of sperm" ayats="16:4,18:37,22:5,23:13,35:11,36:77,40:67,53:46,75:37,76:2,80:19"/>
+    <topic id="496" parent="494" name="from clay" ayats="6:2,7:12,15:26,17:61,23:12,32:7,38:71,38:76,55:14"/>
+    <topic id="497" parent="496" name="with water" ayats="37:11"/>
+    <topic id="498" parent="494" name="from dark transmuted slime" ayats="15:26,15:28,15:33"/>
+    <topic id="499" parent="494" name="from dust" ayats="3:59,18:37,22:5,30:20,35:11,40:67,53:32"/>
+    <topic id="500" parent="494" name="from earth" ayats="11:61"/>
+    <topic id="501" parent="494" name="from seminal fluid" ayats="86:6"/>
+    <topic id="502" parent="494" name="from male and female" ayats="49:13"/>
+    <topic id="503" parent="490" name="diversity in" ayats="30:22,35:28"/>
+    <topic id="504" parent="490" name="given free will" ayats="36:67"/>
+    <topic id="505" parent="490" name="grows gradually from the earth" ayats="71:17"/>
+    <topic id="506" parent="490" name="insignificant compared to the Universe" ayats="40:57"/>
+    <topic id="507" parent="490" name="mates of your own kind" ayats="16:72,30:21,42:11"/>
+    <topic id="508" parent="490" name="selfishness ever present in soul" ayats="4:128"/>
+    <topic id="509" parent="490" name="vilest are those who don't use reason" ayats="8:22,8:55"/>
+    <topic id="510"  name="Hunayn" ayats="9:25"/>
+    <topic id="511"  name="Hunting" ayats=""/>
+    <topic id="512" parent="511" name="about animals trained to hunt" ayats="5:4"/>
+    <topic id="513"  name="Hur'in (a.k.a. Houries)" ayats="44:54,52:20,55:72,56:22"/>
+    <topic id="514"  name="Hydrology" ayats="14:32,16:15,39:21"/>
+    <topic id="515" parent="514" name="scum" ayats="13:17"/>
+    <topic id="516"  name="Hypocrites" ayats="2:217,4:38,5:61,9:61-70,9:73-110"/>
+    <topic id="517" parent="516" name="praying for them does no good" ayats="9:84,9:113"/>
+    <topic id="518"  name="I" ayats=""/>
+    <topic id="519"  name="Iblis (Satan)" ayats="2:34,3:155,3:175,4:38,4:60,4:76,4:116,4:119-120,4:140,4:145,5:90,5:91,6:38,6:43,6:68,7:11-12,7:20,7:21,7:27,7:175,7:200,7:201,8:11,8:48,12:5,12:42,12:100,14:22,15:31-40,16:63,16:98,17:27,17:53,17:61,17:64,18:50,18:63,19:44,19:45,20:116,20:120,22:52,22:53,24:21,25:29,26:95,27:24,28:15,29:38,31:21,34:20-21,35:6,36:60,37:65,38:41,38:74-85,41:36,43:62,47:25,58:10,58:19,59:16"/>
+    <topic id="520"  name="Idolatry" ayats=""/>
+    <topic id="521" parent="520" name="forbidden" ayats="5:90,6:145"/>
+    <topic id="522"  name="Idris" ayats="19:56-57,21:85"/>
+    <topic id="523"  name="Immorality" ayats=""/>
+    <topic id="524" parent="523" name="punish both" ayats="4:15"/>
+    <topic id="525" parent="524" name="repentance cancels punishment" ayats="4:15"/>
+    <topic id="526" parent="525" name="deathbed repentance excluded" ayats="4:18"/>
+    <topic id="527" parent="523" name="women" ayats="4:15"/>
+    <topic id="528" parent="527" name="four witnesses required in order to convict" ayats="4:15"/>
+    <topic id="529"  name="Imposters" ayats=""/>
+    <topic id="530" parent="529" name="religious" ayats="2:78"/>
+    <topic id="531" parent="529" name="punishment for" ayats="2:78"/>
+    <topic id="532"  name="Imran House of" ayats="3:33"/>
+    <topic id="533"  name="In sha' Allah" ayats="18:23"/>
+    <topic id="534"  name="Inheritance" ayats="2:180,4:176,89:19"/>
+    <topic id="535" parent="534" name="apportionment to" ayats=""/>
+    <topic id="536" parent="535" name="children and parents" ayats="4:11"/>
+    <topic id="537" parent="535" name="other kin orphans and the needy" ayats="4:8"/>
+    <topic id="538" parent="535" name="siblings" ayats="4:12"/>
+    <topic id="539" parent="535" name="widows and widowers" ayats="4:12"/>
+    <topic id="540" parent="534" name="don't hold unloved wives for" ayats="4:19"/>
+    <topic id="541" parent="534" name="for men" ayats="4:7"/>
+    <topic id="542" parent="534" name="for women" ayats="4:7"/>
+    <topic id="543" parent="534" name="summary" ayats="4:33"/>
+    <topic id="544"  name="Interest on loans (see Usury)" ayats=""/>
+    <topic id="545"  name="Intoxicants" ayats="16:67"/>
+    <topic id="546" parent="545" name="don't pray while drunk" ayats="4:43"/>
+    <topic id="547" parent="545" name="forbidden except in dire circumstances" ayats="2:219,5:90,5:91"/>
+    <topic id="548"  name="Iram" ayats="89:7-8"/>
+    <topic id="549"  name="Iron" ayats="57:25"/>
+    <topic id="550"  name="Isaac" ayats="2:136,2:140,3:84,4:163,6:84,11:71,12:5,12:6,12:38,14:39,21:72,37:112-113,38:45"/>
+    <topic id="551"  name="Ishmael" ayats="2:136,2:140,3:84,4:163,6:86,14:39,21:85,37:102-109,38:48"/>
+    <topic id="552" parent="551" name="and Hagar" ayats="2:158"/>
+    <topic id="553"  name="J" ayats=""/>
+    <topic id="554"  name="Jacob (Israel)" ayats="3:84,4:163,6:84,6:85,11:71,12:38,12:68,19:6,19:49-50,19:58,21:72"/>
+    <topic id="555"  name="Jesus" ayats="4:163,9:30,9:31,10:68,19:30-34,21:91,23:50,33:7,61:6,61:14"/>
+    <topic id="556" parent="555" name="bears witness on" ayats=""/>
+    <topic id="557" parent="555" name="Resurrection Day" ayats="4:159"/>
+    <topic id="558" parent="555" name="Christians asked" ayats=""/>
+    <topic id="559" parent="555" name="not to deify" ayats="4:171"/>
+    <topic id="560" parent="555" name="creation of" ayats="3:45-49,19:22"/>
+    <topic id="561" parent="555" name="disciples" ayats="3:52,61:14"/>
+    <topic id="562" parent="555" name="divergent views" ayats=""/>
+    <topic id="563" parent="555" name="about" ayats="43:65"/>
+    <topic id="564" parent="555" name="followers above" ayats=""/>
+    <topic id="565" parent="555" name="others on Resurrection day" ayats="3:55"/>
+    <topic id="566" parent="555" name="healing of blind" ayats=""/>
+    <topic id="567" parent="555" name="and lepers raising the dead" ayats="5:110"/>
+    <topic id="568" parent="555" name="his holy" ayats=""/>
+    <topic id="569" parent="555" name="inspiration" ayats="2:87,2:252,5:110"/>
+    <topic id="570" parent="555" name="his nature is as" ayats=""/>
+    <topic id="571" parent="555" name="Adam's" ayats="3:59"/>
+    <topic id="572" parent="555" name="is the means to" ayats=""/>
+    <topic id="573" parent="555" name="know Judgement Day (alternate translation)" ayats="43:61"/>
+    <topic id="574" parent="555" name="Jews boast of" ayats=""/>
+    <topic id="575" parent="555" name="killing" ayats="4:157"/>
+    <topic id="576" parent="555" name="not Allah" ayats="5:17,5:72,5:116"/>
+    <topic id="577" parent="555" name="only a" ayats=""/>
+    <topic id="578" parent="555" name="messenger" ayats="4:171,4:172,5:75,19:30"/>
+    <topic id="579" parent="555" name="only seemed" ayats=""/>
+    <topic id="580" parent="555" name="slain and crucified" ayats="4:157"/>
+    <topic id="581" parent="555" name="resurrected" ayats="4:158"/>
+    <topic id="582" parent="555" name="resurrection" ayats=""/>
+    <topic id="583" parent="555" name="foretold" ayats="3:55,19:33"/>
+    <topic id="584" parent="555" name="truth about him" ayats=""/>
+    <topic id="585" parent="555" name="will be realized when people die" ayats="4:159"/>
+    <topic id="586"  name="Jews" ayats="5:69,22:17"/>
+    <topic id="587" parent="586" name="and Christians" ayats="2:120,2:139,3:75,5:68"/>
+    <topic id="588" parent="587" name="messenger comes to them" ayats="5:32"/>
+    <topic id="589" parent="587" name="enmity and hatred among them" ayats="5:64"/>
+    <topic id="590" parent="587" name="fights between" ayats="2:113"/>
+    <topic id="591" parent="587" name="food restrictions" ayats="6:146"/>
+    <topic id="592" parent="587" name="have no rights to claim Allah's bounty exclusively" ayats="57:29"/>
+    <topic id="593" parent="587" name="heaven not only for them" ayats="2:111"/>
+    <topic id="594" parent="587" name="say they are Allah's Children" ayats="5:18"/>
+    <topic id="595" parent="586" name="believe in but few things" ayats="4:155"/>
+    <topic id="596" parent="586" name="claim that they alone are close to Allah" ayats="2:94,62:6"/>
+    <topic id="597" parent="586" name="denied good things of life" ayats="4:160"/>
+    <topic id="598" parent="597" name="reasons for" ayats="4:161"/>
+    <topic id="599" parent="586" name="foods which are forbidden for" ayats="6:146"/>
+    <topic id="600" parent="586" name="good deeds of ancestors don't count" ayats="2:136"/>
+    <topic id="601" parent="586" name="hurting themselves by their misinterpretations" ayats="5:64"/>
+    <topic id="602" parent="586" name="mistaken to believe in their own revelations only" ayats="2:91"/>
+    <topic id="603" parent="586" name="most have forgotten what they've been told to bear in mind" ayats="5:13"/>
+    <topic id="604" parent="586" name="most hostile to Muslims" ayats="5:82"/>
+    <topic id="605" parent="586" name="ransoming each other during the Prophet's life" ayats="2:85"/>
+    <topic id="606" parent="586" name="religious commandments" ayats="2:43,2:84-85,5:32"/>
+    <topic id="607" parent="586" name="retribution given in the Torah" ayats="5:45"/>
+    <topic id="608" parent="586" name="righteous will be rewarded" ayats="2:62,5:65,5:69"/>
+    <topic id="609" parent="586" name="say Ezra is Allah's Son" ayats="9:30"/>
+    <topic id="610" parent="586" name="say Our hearts are full of knowledge." ayats="2:88,4:155"/>
+    <topic id="611" parent="586" name="slaying prophets" ayats="2:61,3:21,3:112,3:181,3:183,4:155,4:157,5:70"/>
+    <topic id="612" parent="586" name="some distort meanings of all revelations" ayats="4:46,5:13,5:41"/>
+    <topic id="613" parent="612" name="forgive them" ayats="5:13"/>
+    <topic id="614" parent="586" name="warning to" ayats="4:47"/>
+    <topic id="615"  name="Jihad (fighting striving struggling endeavoring)" ayats=""/>
+    <topic id="616" parent="615" name="non-believing parents trying to persuade a believer to" ayats=""/>
+    <topic id="617" parent="615" name="polytheism" ayats="29:8,31:15"/>
+    <topic id="618" parent="615" name="striving hard against disbelievers" ayats="9:73,25:52,66:9"/>
+    <topic id="619" parent="615" name="striving hard in Allah's cause" ayats="2:218,3:142,4:95,5:35,5:54,8:72,8:74-75,9:16,9:19-20,9:24,9:44,9:86,9:88,22:78,29:6,29:69,49:15,60:1,61:11"/>
+    <topic id="620"  name="Jinn" ayats="6:100,6:112,6:128,6:130,7:179,11:119,15:27,17:88,18:50,27:17,32:13,34:12,34:14,37:158,41:25,41:29,46:18,46:29,51:56,55:15,55:33,55:39,55:56,55:74,72:1-15,72:5,72:6,114:6"/>
+    <topic id="621" parent="620" name="created of fire" ayats="15:27,55:15"/>
+    <topic id="622"  name="Job" ayats="4:163,6:84,21:83,38:41-44"/>
+    <topic id="623"  name="John the Baptist" ayats="3:38-40,6:85,6:86,19:7-15,21:90"/>
+    <topic id="624"  name="Jonah" ayats="4:163,6:86,10:98,21:87,37:139-148,68:48"/>
+    <topic id="625"  name="Jordan" ayats="2:58"/>
+    <topic id="626" parent="625" name="enter humbly" ayats="2:58,7:161"/>
+    <topic id="627" parent="625" name="entry into" ayats="5:21-26"/>
+    <topic id="628" parent="625" name="Jews allowed there not due them" ayats="2:58"/>
+    <topic id="629"  name="Joseph" ayats="6:84,12:4-101,12:102,40:34"/>
+    <topic id="630" parent="629" name="attempted seduction of" ayats="12:23"/>
+    <topic id="631" parent="629" name="sold to an Egyptian" ayats="12:21"/>
+    <topic id="632"  name="Judgement" ayats="4:58,5:8,6:151-152,37:53,40:78,45:21,50:29,51:6,60:10,69:18,76:24,82:9,95:8"/>
+    <topic id="633" parent="632" name="be just" ayats="5:8,5:42"/>
+    <topic id="634" parent="633" name="don't let hate lead judgement astray" ayats="5:8"/>
+    <topic id="635" parent="632" name="Day" ayats="2:123,2:177,2:254,3:9,3:25,3:106,3:114,4:41,4:59,4:136,5:69,5:119,6:15-16,6:40,6:128,7:8,7:53,7:187,9:29,9:35,9:44,9:45,9:77,9:99,10:15,10:28,11:3,11:8,11:25,11:84,11:103,11:105,12:107,14:21,14:29,14:30,14:41,14:42,14:44,14:48,14:49,15:36,15:38,16:77,16:84,16:87,16:89,16:111,17:71,17:104,18:99,18:100,19:37-39,19:75,19:85,20:15,20:105-112,21:49,21:103-104,22:2-7,22:55-56,24:37,25:8,25:11,26:82,27:83,30:12,30:14,30:55,32:14,33:21,33:44,33:63,33:66,34:3,37:20,38:16,38:26,38:53,39:13,40:9,40:27,40:33,40:51,40:59,42:7,43:66,43:83,43:85,44:40,45:27,45:32,45:34,45:35,47:18,50:20,51:12,52:45,54:46,54:48,56:56,58:22,60:6,64:9,69:19-37,70:26,74:46,76:7,77:13-14,77:38,78:17,79:6-14,81:1-14,82:15,83:11,99:1-8,101:1"/>
+    <topic id="636" parent="635" name="messengers called together" ayats="77:11"/>
+    <topic id="637" parent="635" name="are disbelievers really ready for" ayats="10:51-52"/>
+    <topic id="638" parent="637" name="repentence then is too late" ayats="40:85"/>
+    <topic id="639" parent="635" name="childrens' hair turns grey" ayats="73:17"/>
+    <topic id="640" parent="635" name="earth" ayats=""/>
+    <topic id="641" parent="640" name="and mountains lifted and crushed" ayats="69:14,89:21"/>
+    <topic id="642" parent="640" name="levelled" ayats="84:3"/>
+    <topic id="643" parent="640" name="riven asunder" ayats="50:44"/>
+    <topic id="644" parent="640" name="severely shaken" ayats="56:4"/>
+    <topic id="645" parent="640" name="will be convulsed and become like a moving" ayats=""/>
+    <topic id="646" parent="640" name="sand-dune" ayats="73:14"/>
+    <topic id="647" parent="635" name="flash of fire followed by smoke" ayats="55:35"/>
+    <topic id="648" parent="635" name="moon split asunder" ayats="54:1"/>
+    <topic id="649" parent="635" name="mountains" ayats=""/>
+    <topic id="650" parent="649" name="like tufts of wool" ayats="70:9,101:5"/>
+    <topic id="651" parent="649" name="scattered like dust" ayats="77:10"/>
+    <topic id="652" parent="649" name="shattered" ayats="56:5"/>
+    <topic id="653" parent="649" name="vanish" ayats="78:20"/>
+    <topic id="654" parent="649" name="will move" ayats="52:10"/>
+    <topic id="655" parent="635" name="seas will burst beyond their bounds" ayats="82:3"/>
+    <topic id="656" parent="635" name="skies" ayats=""/>
+    <topic id="657" parent="656" name="and clouds will burst apart" ayats="25:25"/>
+    <topic id="658" parent="656" name="flung open" ayats="78:19"/>
+    <topic id="659" parent="656" name="like molten lead" ayats="70:8"/>
+    <topic id="660" parent="656" name="red like burning oil" ayats="55:37"/>
+    <topic id="661" parent="656" name="rent asunder" ayats="55:37,69:16,73:18,77:9,82:1,84:1"/>
+    <topic id="662" parent="656" name="will be rolled up" ayats="21:104"/>
+    <topic id="663" parent="656" name="will bring forth a pall of smoke" ayats="44:10"/>
+    <topic id="664" parent="635" name="stars" ayats=""/>
+    <topic id="665" parent="664" name="effaced" ayats="77:8"/>
+    <topic id="666" parent="664" name="scattered" ayats="82:2"/>
+    <topic id="667" parent="635" name="three types of soul to judge" ayats=""/>
+    <topic id="668" parent="667" name="those close to Allah" ayats="56:10-11,56:15-26,56:88-89"/>
+    <topic id="669" parent="667" name="those evil" ayats="56:9,56:41-55,56:92-94"/>
+    <topic id="670" parent="667" name="those righteous" ayats="56:8,56:27-38,56:90-91"/>
+    <topic id="671" parent="632" name="use reason" ayats="6:151"/>
+    <topic id="672" parent="632" name="verify reports and rumors" ayats="49:6,49:12"/>
+    <topic id="673"  name="K" ayats=""/>
+    <topic id="674"  name="Kabah" ayats="2:125-127,2:191,2:217,5:95,5:97,8:34,9:7,48:25,48:27,106:3"/>
+    <topic id="675" parent="674" name="creation of" ayats="2:125"/>
+    <topic id="676" parent="674" name="enter it with" ayats=""/>
+    <topic id="677" parent="674" name="shaved heads or short hair" ayats="48:27"/>
+    <topic id="678"  name="Killing" ayats="18:74,18:80"/>
+    <topic id="679" parent="678" name="another believer inconceivable unless by mistake" ayats="4:92,48:25"/>
+    <topic id="680" parent="679" name="reparations for" ayats="4:92"/>
+    <topic id="681" parent="678" name="deliberate killing of believer and punishment" ayats="4:93"/>
+    <topic id="682" parent="678" name="don't" ayats="6:151,17:33,25:68"/>
+    <topic id="683" parent="678" name="don't harm those offering peace" ayats="4:90"/>
+    <topic id="684" parent="678" name="female children buried alive will ask for what crime she'd" ayats=""/>
+    <topic id="685" parent="678" name="been killed" ayats="81:8-9"/>
+    <topic id="686" parent="678" name="hypocrites will be slain in Medina during the War of the" ayats=""/>
+    <topic id="687" parent="678" name="Confederates" ayats="33:60-61"/>
+    <topic id="688" parent="678" name="not for material gain" ayats="4:94"/>
+    <topic id="689" parent="678" name="only during hostilities in progress" ayats="2:191,4:89,4:91,5:33,8:39,8:57,9:5,9:12"/>
+    <topic id="690" parent="678" name="oppression more awesome than" ayats="2:191,2:217"/>
+    <topic id="691" parent="678" name="punishment for murder and spreading corruption on Earth" ayats="5:32"/>
+    <topic id="692" parent="678" name="retribution" ayats="2:178,17:33"/>
+    <topic id="693"  name="Knowledge" ayats=""/>
+    <topic id="694" parent="693" name="literacy" ayats="96:1-5"/>
+    <topic id="695" parent="693" name="study nature to aquire" ayats="3:190,6:99,10:5-6,13:3-4,16:10-16"/>
+    <topic id="696" parent="693" name="travel to learn" ayats="29:20"/>
+    <topic id="697"  name="Kufr (denial of the truth)" ayats="2:108,3:52,3:80,3:167,3:177,5:41,5:61,9:12,9:17,9:23,9:37,9:74,16:106,49:7"/>
+    <topic id="698"  name="L" ayats=""/>
+    <topic id="699"  name="Language" ayats=""/>
+    <topic id="700" parent="699" name="diversity in" ayats="30:22"/>
+    <topic id="701"  name="Laws given by Allah and the Prophet" ayats="33:36"/>
+    <topic id="702"  name="Life" ayats=""/>
+    <topic id="703" parent="702" name="attraction of worldly" ayats="3:14"/>
+    <topic id="704" parent="702" name="creatures consist mainly of water (See Biology)" ayats=""/>
+    <topic id="705" parent="702" name="diversity" ayats="30:22,35:27-28"/>
+    <topic id="706" parent="702" name="extra-terrestrial" ayats="22:18"/>
+    <topic id="707" parent="702" name="is sacred" ayats="17:33"/>
+    <topic id="708" parent="702" name="good things made lawful" ayats="5:5,5:87,5:88,5:93,7:32,7:157,16:114,40:64,45:16"/>
+    <topic id="709" parent="702" name="path toward contentment made easy" ayats="80:20,87:8,92:7"/>
+    <topic id="710"  name="Lion" ayats="74:15"/>
+    <topic id="711"  name="Literacy" ayats="96:1-5"/>
+    <topic id="712"  name="Litigants" ayats="38:21-24"/>
+    <topic id="713"  name="Livestock" ayats="40:79"/>
+    <topic id="714"  name="Locusts" ayats="54:7,105:3"/>
+    <topic id="715"  name="Lot" ayats="6:86,7:80-84,11:70,11:74,11:77-83,11:89,15:59-72,21:71,21:74,22:43,29:28,29:32-33,37:153,38:13,50:13,54:33-39,66:10"/>
+    <topic id="716"  name="Lote tree" ayats="53:14,53:16,56:28"/>
+    <topic id="717"  name="Luqman" ayats="31:13-19"/>
+    <topic id="718"  name="M" ayats=""/>
+    <topic id="719"  name="Madyan (Midian)" ayats="7:85-93,9:70,11:84-96,15:78,20:40,22:44,26:176,26:160-173,27:54-57,28:22-23,28:45,29:36,50:14"/>
+    <topic id="720"  name="Magians" ayats="22:17"/>
+    <topic id="721"  name="Manna" ayats="7:160,20:80"/>
+    <topic id="722"  name="Marriage" ayats="25:54"/>
+    <topic id="723" parent="722" name="adultery" ayats="17:32"/>
+    <topic id="724" parent="723" name="evidence" ayats=""/>
+    <topic id="725" parent="723" name="required (four witnesses)" ayats="24:4"/>
+    <topic id="726" parent="723" name="false" ayats=""/>
+    <topic id="727" parent="723" name="accusers punishment" ayats="24:4,24:19,24:23"/>
+    <topic id="728" parent="723" name="forbidden" ayats="17:32,25:68"/>
+    <topic id="729" parent="723" name="if there" ayats=""/>
+    <topic id="730" parent="723" name="aren't four witnesses" ayats="24:6-9"/>
+    <topic id="731" parent="723" name="marriage" ayats=""/>
+    <topic id="732" parent="723" name="after" ayats="24:3"/>
+    <topic id="733" parent="723" name="punishment" ayats=""/>
+    <topic id="734" parent="723" name="for" ayats="24:2"/>
+    <topic id="735" parent="722" name="appoint arbiter from among you when fearing a breach" ayats="4:35"/>
+    <topic id="736" parent="722" name="complaints" ayats="58:1"/>
+    <topic id="737" parent="722" name="don't hold wives against their will" ayats="4:19"/>
+    <topic id="738" parent="722" name="dowry" ayats="4:4,4:19-21,4:24,4:25,5:5,60:10,60:11"/>
+    <topic id="739" parent="738" name="other mutually agreed arrangements" ayats="4:24"/>
+    <topic id="740" parent="738" name="woman may return it" ayats="4:4"/>
+    <topic id="741" parent="722" name="forbidden" ayats=""/>
+    <topic id="742" parent="741" name="to certain kin" ayats="4:22-24"/>
+    <topic id="743" parent="741" name="to non-believers" ayats="2:221,5:5,60:10"/>
+    <topic id="744" parent="722" name="fornication forbidden" ayats="4:24,4:25,4:27,5:5"/>
+    <topic id="745" parent="722" name="if unable" ayats="24:33"/>
+    <topic id="746" parent="722" name="if woman fears mistreatment from her husband" ayats="4:128"/>
+    <topic id="747" parent="722" name="love and tenderness" ayats="30:21"/>
+    <topic id="748" parent="722" name="polygamy" ayats="4:3"/>
+    <topic id="749" parent="748" name="restrictions about" ayats="4:3"/>
+    <topic id="750" parent="748" name="warning against" ayats="4:129"/>
+    <topic id="751" parent="722" name="recline with spouses in Paradise" ayats="36:56,40:8,43:70"/>
+    <topic id="752" parent="722" name="spouses are raiment for each other" ayats="2:187"/>
+    <topic id="753" parent="722" name="to adopted son's ex-wife is permitted" ayats="33:37"/>
+    <topic id="754" parent="722" name="to orphans" ayats="4:3"/>
+    <topic id="755" parent="722" name="to single woman only" ayats="4:24"/>
+    <topic id="756" parent="722" name="to slave" ayats=""/>
+    <topic id="757" parent="756" name="and among slaves" ayats="24:32"/>
+    <topic id="758" parent="756" name="woman if need arises" ayats="4:3,4:25"/>
+    <topic id="759" parent="758" name="better if men don't marry" ayats="4:25"/>
+    <topic id="760" parent="758" name="even if she's married before being captured" ayats="4:24"/>
+    <topic id="761" parent="758" name="punishment only half of free women's if immoral" ayats="4:25"/>
+    <topic id="762" parent="722" name="to unmarried only" ayats="24:32"/>
+    <topic id="763"  name="Mary" ayats="3:34-37,3:42-47,4:156-157,4:171,5:17,5:46,5:72,5:78,5:110,5:112,5:114,5:116,9:31,19:16-39,21:91,23:50,33:7,43:57,56:27,61:6,61:14,66:12"/>
+    <topic id="764" parent="763" name="not a deity" ayats="5:116"/>
+    <topic id="765"  name="Materialism" ayats="9:24,9:34,9:55,9:85,28:76,57:20,63:9,64:15,68:14,71:12,71:22,89:20,92:11,100:8,102:1,104:2-3,111:2"/>
+    <topic id="766" parent="765" name="and the Prophet's wives" ayats="33:28"/>
+    <topic id="767" parent="765" name="envy forbidden" ayats="4:32,15:88,16:90,20:131"/>
+    <topic id="768" parent="765" name="forbidden" ayats="4:29-30,8:27"/>
+    <topic id="769" parent="765" name="greed brings destruction" ayats="102:1-6"/>
+    <topic id="770" parent="765" name="punishment for" ayats="4:30"/>
+    <topic id="771" parent="765" name="ruining others forbidden" ayats="4:32"/>
+    <topic id="772" parent="765" name="squandering" ayats="17:27,25:67"/>
+    <topic id="773"  name="Mecca" ayats="2:142-150"/>
+    <topic id="774" parent="773" name="duty to visit Mecca (Makkah) for the Hajj" ayats="3:97"/>
+    <topic id="775" parent="773" name="turn and pray toward" ayats="2:144,2:149-150"/>
+    <topic id="776" parent="775" name="isn't necessary (Allah is everywhere)" ayats="2:115,2:142,2:177"/>
+    <topic id="777" parent="773" name="valley of" ayats="48:24"/>
+    <topic id="778"  name="Medinah" ayats="9:101,9:120,33:60,63:8"/>
+    <topic id="779"  name="Menstruation" ayats="2:222"/>
+    <topic id="780"  name="Metallurgy" ayats="18:96-97"/>
+    <topic id="781" parent="780" name="iron" ayats="57:25"/>
+    <topic id="782" parent="780" name="molten copper" ayats="34:2"/>
+    <topic id="783" parent="780" name="slag" ayats="13:17"/>
+    <topic id="784"  name="Milk" ayats="16:66,47:15"/>
+    <topic id="785"  name="Mineralogy" ayats="16:14,35:12"/>
+    <topic id="786"  name="Mockery" ayats=""/>
+    <topic id="787" parent="786" name="leave company of those in the act of mocking Allah's law" ayats="4:140,6:68"/>
+    <topic id="788"  name="Monastic asceticism" ayats=""/>
+    <topic id="789" parent="788" name="some types criticised" ayats="57:27"/>
+    <topic id="790"  name="Monks" ayats=""/>
+    <topic id="791" parent="790" name="some devour people's possessions" ayats="9:34"/>
+    <topic id="792" parent="790" name="some turn people away from Allah" ayats="9:34"/>
+    <topic id="793" parent="790" name="taken as lords by some people" ayats="9:31"/>
+    <topic id="794"  name="Months" ayats=""/>
+    <topic id="795" parent="794" name="four sacred" ayats="9:36"/>
+    <topic id="796" parent="795" name="fighting forbidden during" ayats="9:36"/>
+    <topic id="797" parent="796" name="unless attacked" ayats="2:194,2:217"/>
+    <topic id="798" parent="794" name="twelve (lunar) in a year" ayats="9:36"/>
+    <topic id="799"  name="Moses" ayats="3:84,6:84,6:91,7:103-162,10:75-93,11:96,11:110,14:5,14:6,14:8,17:2,17:101-104,18:60-82,19:51-53,20:9-98,21:48,22:44,23:45-49,25:35,26:10-66,27:7-14,28:3-43,28:44,28:48,28:76,29:39,32:23,33:7,33:69,37:114-120,40:23-27,40:53,41:45,42:13,43:46-55,44:17-36,46:12,46:30,51:38-40,53:36,61:5,79:14-25,87:19"/>
+    <topic id="800" parent="799" name="bringing forth water from the rock" ayats="2:60,7:160"/>
+    <topic id="801" parent="799" name="commands to his people" ayats="5:21"/>
+    <topic id="802" parent="799" name="duel by sorcery with Pharaoh's magicians" ayats="7:109-126,10:79-81,20:65-70,26:43-47"/>
+    <topic id="803" parent="799" name="forty nights upon Mt. Sinai" ayats="2:51,7:142"/>
+    <topic id="804" parent="799" name="House of" ayats="2:248"/>
+    <topic id="805" parent="799" name="parting of the Red Sea" ayats="20:77,26:63"/>
+    <topic id="806" parent="799" name="plagues" ayats="7:133-136,7:163"/>
+    <topic id="807"  name="Mosque" ayats=""/>
+    <topic id="808" parent="807" name="disbelievers should not visit or take care of" ayats="9:17"/>
+    <topic id="809" parent="807" name="rival one in Quba is forbidden" ayats="9:108"/>
+    <topic id="810"  name="Mountains" ayats="15:19,16:15,16:81,17:37,20:105-107,27:61,31:10,33:72,34:10,38:18,41:10,42:32,50:7,77:27,78:7,79:32,81:3,88:19,95:2"/>
+    <topic id="811"  name="Muhammed" ayats="47:2"/>
+    <topic id="812" parent="811" name="admonished" ayats="33:37,66:1,75:16-19,80:1-10"/>
+    <topic id="813" parent="811" name="as judge for followers" ayats="4:65"/>
+    <topic id="814" parent="811" name="dares not alter the Qur'an nor act contrarily" ayats="10:15"/>
+    <topic id="815" parent="811" name="divorce" ayats="33:52"/>
+    <topic id="816" parent="811" name="exemptions from regular marriage laws" ayats="33:51"/>
+    <topic id="817" parent="811" name="like of a pretty woman" ayats="33:52"/>
+    <topic id="818" parent="811" name="marriage" ayats=""/>
+    <topic id="819" parent="818" name="kinship allowances in" ayats="33:50"/>
+    <topic id="820" parent="818" name="restrictions" ayats="33:52"/>
+    <topic id="821" parent="811" name="mystical ascension" ayats="53:6-18"/>
+    <topic id="822" parent="811" name="not a madman" ayats="7:184,52:29,68:2,81:22"/>
+    <topic id="823" parent="811" name="only a prophet" ayats="3:144,6:50,7:188"/>
+    <topic id="824" parent="811" name="prayed for non-believing Uncle (enjoined not to)" ayats="9:113"/>
+    <topic id="825" parent="811" name="reacted against something lawful" ayats="66:1"/>
+    <topic id="826" parent="811" name="seal of the prophets" ayats="33:40"/>
+    <topic id="827" parent="811" name="summons from" ayats="24:63"/>
+    <topic id="828" parent="811" name="taking leave of" ayats="24:62"/>
+    <topic id="829" parent="811" name="unlettered prophet" ayats="7:157,7:158,62:2"/>
+    <topic id="830" parent="811" name="visiting wives" ayats="3:51"/>
+    <topic id="831" parent="811" name="widowed wives not allowed to remarry" ayats="33:53"/>
+    <topic id="832"  name="Mules" ayats="16:8"/>
+    <topic id="833"  name="N" ayats=""/>
+    <topic id="834"  name="Native peoples" ayats=""/>
+    <topic id="835" parent="834" name="don't drive them" ayats=""/>
+    <topic id="836" parent="834" name="out" ayats="2:84"/>
+    <topic id="837" parent="836" name="reject those" ayats=""/>
+    <topic id="838" parent="836" name="who do" ayats="2:85"/>
+    <topic id="839" parent="834" name="driven out of their homelands" ayats="3:195"/>
+    <topic id="840"  name="Necessity" ayats=""/>
+    <topic id="841" parent="840" name="dire circumstances may repeal ordinances forbidding" ayats=""/>
+    <topic id="842" parent="840" name="something" ayats="5:3,16:115"/>
+    <topic id="843"  name="Nepotism disallowed" ayats="33:40"/>
+    <topic id="844"  name="Night" ayats="25:47"/>
+    <topic id="845"  name="Noah" ayats="3:33,6:84,7:59-64,7:69,9:70,10:71,11:25-33,11:36-48,11:89,14:9,17:3,17:17,19:58,21:76,22:42,23:23-29,25:37,26:105-120,29:14,37:75-79,38:12,40:5,40:31,42:13,50:12,51:46,53:52,54:9,57:26,66:10"/>
+    <topic id="846" parent="845" name="ark" ayats="7:64,10:73,11:37-38,11:40,23:27,29:15,54:13-14,69:11,71:1-28"/>
+    <topic id="847" parent="846" name="came to rest on Mt. Judi" ayats="11:44"/>
+    <topic id="848" parent="845" name="flood" ayats="7:64,10:73,11:40-44,25:37,29:120,29:14,54:11-12,71:25"/>
+    <topic id="849"  name="Nuclear physics" ayats=""/>
+    <topic id="850" parent="849" name="things smaller than an atom (originally meant as ant?)" ayats="10:61,34:3"/>
+    <topic id="851"  name="O" ayats=""/>
+    <topic id="852"  name="Oaths" ayats="2:224,16:91,16:92,16:94,48:10"/>
+    <topic id="853" parent="852" name="atonement for" ayats=""/>
+    <topic id="854" parent="852" name="broken ones" ayats="5:89"/>
+    <topic id="855" parent="854" name="feeding or" ayats=""/>
+    <topic id="856" parent="854" name="clothing 10 freeing a slave fasting for 3 days" ayats="5:89"/>
+    <topic id="857"  name="Old Testament" ayats=""/>
+    <topic id="858" parent="857" name="followers of" ayats="4:153"/>
+    <topic id="859"  name="Olive" ayats="95:1"/>
+    <topic id="860"  name="Olive trees" ayats="80:29"/>
+    <topic id="861"  name="Oppression" ayats="2:193,8:39"/>
+    <topic id="862" parent="861" name="blame is on oppressors" ayats="42:42"/>
+    <topic id="863" parent="861" name="defend against" ayats="42:39"/>
+    <topic id="864" parent="861" name="more awesome than killing" ayats="2:191,2:217"/>
+    <topic id="865"  name="Orphans" ayats="2:220,4:6,4:127,93:7"/>
+    <topic id="866" parent="865" name="leave their possessions" ayats="4:2-3,4:10,17:34"/>
+    <topic id="867"  name="P" ayats=""/>
+    <topic id="868"  name="Patriarchy" ayats="33:5"/>
+    <topic id="869"  name="Pearls" ayats="35:33,52:24,55:22,55:58,56:23,76:19"/>
+    <topic id="870"  name="Pen" ayats="68:1,96:4"/>
+    <topic id="871"  name="Persecuted" ayats=""/>
+    <topic id="872" parent="871" name="people" ayats="8:72"/>
+    <topic id="873" parent="872" name="protect them" ayats=""/>
+    <topic id="874" parent="872" name="unless they under a regime with whom you have a covenant" ayats="8:72"/>
+    <topic id="875" parent="871" name="those who are protectors of" ayats="8:72,8:74"/>
+    <topic id="876"  name="Persecutors" ayats="85:10"/>
+    <topic id="877"  name="Pharaoh" ayats="7:104-137,8:52,8:54,10:75-90,11:97,14:6,20:24,20:43,20:56,20:60,20:78,23:46,26:10-66,27:12,28:3-42,29:39,38:12,40:24-46,43:46-85,44:17,44:31,50:13,51:38-40,54:41-42,66:11,69:9,73:15-16,79:17-25,85:18"/>
+    <topic id="878" parent="877" name="punishment of" ayats="3:11,20:78-79,26:66,28:40,43:55,44:24,51:40,89:18"/>
+    <topic id="879" parent="877" name="torture by and deliverance from" ayats="2:49,17:103"/>
+    <topic id="880"  name="Piety" ayats="2:177"/>
+    <topic id="881"  name="Pollution" ayats="30:41"/>
+    <topic id="882"  name="Poets" ayats="21:5,26:224,37:36,52:30"/>
+    <topic id="883"  name="Pomegranates" ayats="55:68"/>
+    <topic id="884"  name="Prayer" ayats="2:45,9:103,51:18,70:22-23,75:31,96:10,108:2"/>
+    <topic id="885" parent="884" name="beautify (adorn) yourselves for" ayats="7:31"/>
+    <topic id="886" parent="884" name="content" ayats="2:285-286,3:8-9,3:16,3:147,3:191-194,17:80-81,17:111,23:118,59:10,66:8"/>
+    <topic id="887" parent="884" name="day of congregation (Friday)" ayats="62:9"/>
+    <topic id="888" parent="884" name="for the right reasons" ayats="107:4-6"/>
+    <topic id="889" parent="884" name="of Abraham" ayats="2:126-129,9:114,14:35-41,26:83-89"/>
+    <topic id="890" parent="884" name="of Joseph" ayats="12:101"/>
+    <topic id="891" parent="884" name="of Moses" ayats="20:25-35"/>
+    <topic id="892" parent="884" name="of Noah" ayats="23:26,26:117-118,71:26,71:28"/>
+    <topic id="893" parent="884" name="of Solomon" ayats="38:35"/>
+    <topic id="894" parent="884" name="of Zachariah" ayats="19:8,19:10"/>
+    <topic id="895" parent="884" name="not while drunk" ayats="4:43"/>
+    <topic id="896" parent="884" name="prostration" ayats="3:113,7:206,9:112,15:98,16:48,16:49,22:18,22:26,22:77,25:60,25:64,26:219,32:15,39:9,41:37,48:29,50:40,53:62,76:26,96:19"/>
+    <topic id="897" parent="884" name="restrains one from loathesome deeds" ayats="29:45"/>
+    <topic id="898" parent="884" name="sacred duty linked to time of day" ayats="4:103"/>
+    <topic id="899" parent="884" name="standing" ayats="39:9"/>
+    <topic id="900" parent="884" name="style of" ayats="2:238,17:110"/>
+    <topic id="901" parent="884" name="times of day of" ayats="11:114,17:78,17:79,20:130,24:36,24:58,30:17-18,32:16,38:18,50:39-40,51:17,52:48-49,73:2-4,76:25-26"/>
+    <topic id="902" parent="884" name="while in danger" ayats="2:239,4:101-102"/>
+    <topic id="903"  name="Pregnancy" ayats="7:189,13:8,31:34,32:8,39:6,41:47,53:32"/>
+    <topic id="904" parent="903" name="Allah's spirit is breathed into the fetus" ayats="32:9"/>
+    <topic id="905"  name="Privacy" ayats="24:27-29"/>
+    <topic id="906" parent="905" name="nakedness at mid-day" ayats="24:58-59"/>
+    <topic id="907" parent="905" name="Prophet's household" ayats="33:53,49:4-5"/>
+    <topic id="908" parent="905" name="sharing food" ayats="24:61"/>
+    <topic id="909"  name="Prophet" ayats=""/>
+    <topic id="910" parent="909" name="accept him who confirms earlier revelation" ayats="3:81"/>
+    <topic id="911" parent="909" name="charity during consultation with" ayats="58:12"/>
+    <topic id="912" parent="909" name="don't aquire slaves except through war" ayats="8:67"/>
+    <topic id="913" parent="909" name="don't raise your voice above" ayats="49:2"/>
+    <topic id="914" parent="909" name="has come to you" ayats="9:128"/>
+    <topic id="915" parent="909" name="has highest claim on allegiance of believers" ayats="33:6"/>
+    <topic id="916" parent="909" name="keeps awake 2/3 1/2 or 1/3 of the night praying" ayats="73:20"/>
+    <topic id="917" parent="909" name="miracles only by Allah's leave" ayats="40:78"/>
+    <topic id="918" parent="909" name="only mortal human" ayats="12:109,16:43,21:7-8,25:7"/>
+    <topic id="919" parent="909" name="people who are false prophets are wicked" ayats="6:93,6:143-144,6:157,7:37,10:17,11:18,29:68,39:32,61:7"/>
+    <topic id="920" parent="909" name="prophecy in language of target population" ayats="14:4,16:89"/>
+    <topic id="921" parent="909" name="purpose of" ayats="2:213,6:48,6:130,14:4-6"/>
+    <topic id="922" parent="909" name="some not mentioned" ayats="40:78"/>
+    <topic id="923" parent="909" name="some superior" ayats="2:253,17:55"/>
+    <topic id="924" parent="909" name="those who came before had wives and children" ayats="13:38"/>
+    <topic id="925" parent="909" name="wives" ayats=""/>
+    <topic id="926" parent="925" name="rewards and punishments" ayats="33:30-31"/>
+    <topic id="927" parent="925" name="will be let go if they desire" ayats="33:28-29"/>
+    <topic id="928"  name="Psalms" ayats="4:163"/>
+    <topic id="929" parent="928" name="given to David" ayats="4:163"/>
+    <topic id="930"  name="Q" ayats=""/>
+    <topic id="931"  name="Qarun" ayats="28:76-81,29:39,40:24"/>
+    <topic id="932"  name="Quail" ayats="7:160"/>
+    <topic id="933"  name="Qur'an" ayats="4:82,5:16,7:204,9:111,10:15,10:37,11:13,11:14,12:3,15:87,15:91,16:98,17:9,17:41,17:45,17:46,17:60,17:82,17:88,17:89,18:54,20:2,20:114,25:4,25:6,25:30,25:32,27:1,27:6,27:76,27:92,28:85,30:58,34:31,36:2,38:1,39:27,41:26,41:44,42:7,43:31,46:12,46:29,47:24,50:1,50:45,54:22,54:32,54:40,55:2,56:75,59:21,69:40,73:4,73:20,76:23,84:21"/>
+    <topic id="934" parent="933" name="bestowed on a" ayats=""/>
+    <topic id="935" parent="933" name="blessed night" ayats="44:3,97:1-5"/>
+    <topic id="936" parent="933" name="clear" ayats=""/>
+    <topic id="937" parent="933" name="ordinances" ayats="98:3"/>
+    <topic id="938" parent="933" name="completion of" ayats="5:3"/>
+    <topic id="939" parent="933" name="conveyed" ayats=""/>
+    <topic id="940" parent="933" name="clearly" ayats="5:16,10:15"/>
+    <topic id="941" parent="933" name="distortion of" ayats="5:41"/>
+    <topic id="942" parent="933" name="divine nature" ayats=""/>
+    <topic id="943" parent="933" name="of" ayats="10:37"/>
+    <topic id="944" parent="933" name="don't approach" ayats=""/>
+    <topic id="945" parent="933" name="it in haste" ayats="20:114"/>
+    <topic id="946" parent="933" name="easy to" ayats=""/>
+    <topic id="947" parent="933" name="understand" ayats="44:58"/>
+    <topic id="948" parent="933" name="full of wisdom" ayats="36:2"/>
+    <topic id="949" parent="933" name="guidance to" ayats=""/>
+    <topic id="950" parent="933" name="humans" ayats="2:185"/>
+    <topic id="951" parent="933" name="invisible" ayats=""/>
+    <topic id="952" parent="933" name="barrier during recitation" ayats="17:45"/>
+    <topic id="953" parent="933" name="is not" ayats=""/>
+    <topic id="954" parent="933" name="Muhammed's sayings" ayats="69:44"/>
+    <topic id="955" parent="933" name="not from a" ayats=""/>
+    <topic id="956" parent="933" name="satanic force" ayats="81:25"/>
+    <topic id="957" parent="933" name="not poetry" ayats="36:69,69:41"/>
+    <topic id="958" parent="933" name="recite as much" ayats=""/>
+    <topic id="959" parent="933" name="as you may do with ease" ayats="73:20"/>
+    <topic id="960" parent="933" name="revealed in" ayats=""/>
+    <topic id="961" parent="933" name="Arabic" ayats="12:2,13:37,16:103,20:113,26:195,39:28,41:3,43:3,44:58"/>
+    <topic id="962" parent="933" name="sent forth in" ayats=""/>
+    <topic id="963" parent="933" name="waves (gradually)" ayats="77:1"/>
+    <topic id="964" parent="933" name="some verses" ayats=""/>
+    <topic id="965" parent="933" name="direct some allegorical" ayats="3:7"/>
+    <topic id="966" parent="933" name="source of" ayats=""/>
+    <topic id="967" parent="933" name="health" ayats="17:82,41:44"/>
+    <topic id="968" parent="933" name="upon an" ayats=""/>
+    <topic id="969" parent="933" name="imperishable tablet" ayats="85:21-22"/>
+    <topic id="970"  name="Quraysh" ayats="106:1"/>
+    <topic id="971"  name="R" ayats=""/>
+    <topic id="972"  name="Rabbis" ayats=""/>
+    <topic id="973" parent="972" name="some" ayats=""/>
+    <topic id="974" parent="973" name="devour" ayats=""/>
+    <topic id="975" parent="973" name="people's possessions" ayats="9:34"/>
+    <topic id="976" parent="973" name="taken as" ayats=""/>
+    <topic id="977" parent="973" name="lords" ayats="9:31"/>
+    <topic id="978" parent="973" name="turn people" ayats=""/>
+    <topic id="979" parent="973" name="away from Allah" ayats="9:34"/>
+    <topic id="980"  name="Ramadhan" ayats="2:185"/>
+    <topic id="981" parent="980" name="and sex during the night" ayats="2:187"/>
+    <topic id="982"  name="Record of personal deeds" ayats=""/>
+    <topic id="983" parent="982" name="-" ayats="17:13,18:49,36:12,54:53"/>
+    <topic id="984"  name="Red Sea" ayats=""/>
+    <topic id="985" parent="984" name="parting of" ayats="2:50,20:77-78,26:63-66"/>
+    <topic id="986"  name="Refugees" ayats="59:8"/>
+    <topic id="987"  name="Religion" ayats="110:2"/>
+    <topic id="988" parent="987" name="divergence of opinion" ayats="3:19,42:14,45:17,51:8,78:3,98:4"/>
+    <topic id="989" parent="987" name="draws together former enemies" ayats="3:103"/>
+    <topic id="990" parent="987" name="false ideas upon things allowed and forbidden" ayats="16:116"/>
+    <topic id="991" parent="987" name="falsely follow other people's conjectures" ayats="6:116,6:119"/>
+    <topic id="992" parent="987" name="falsely guided by ancestral concept of" ayats="43:22"/>
+    <topic id="993" parent="987" name="is not play and transient delight" ayats="6:70,7:51,47:36"/>
+    <topic id="994" parent="987" name="is self surrender to Allah" ayats="3:85"/>
+    <topic id="995" parent="987" name="no coercion in matters of faith" ayats="2:256"/>
+    <topic id="996" parent="987" name="no hardship in" ayats="22:78"/>
+    <topic id="997" parent="987" name="same as it was for the ones before you" ayats="42:13"/>
+    <topic id="998" parent="987" name="try and penetrate deepest meaning of" ayats="4:162"/>
+    <topic id="999" parent="987" name="use reason in" ayats="3:65,8:22"/>
+    <topic id="1000" parent="987" name="wickedness of attributing one's own lying inventions to" ayats=""/>
+    <topic id="1001" parent="987" name="Allah" ayats="6:21"/>
+    <topic id="1002"  name="Religious" ayats=""/>
+    <topic id="1003" parent="1002" name="sects" ayats="6:159,30:32,43:65"/>
+    <topic id="1004" parent="1002" name="should stay together" ayats="3:103"/>
+    <topic id="1005"  name="Resurrection" ayats="30:27,83:4"/>
+    <topic id="1006" parent="1005" name="Day" ayats="2:113,2:212,3:77,3:161,3:180,3:185,3:194,4:87,4:109,4:141,4:159,5:14,5:36,5:64,6:12,6:73,7:32,7:167,10:93,11:59,11:60,11:98,11:99,16:25,16:27,16:92,16:124,17:13,17:52,17:58,17:62,17:97,18:47,18:105,19:95,20:100-102,20:124,21:47,22:9,22:17,22:69,23:16,25:69,26:87,28:41-42,28:61,28:71,28:72-81,28:85,29:13,29:25,30:40,30:56,31:34,32:25,35:14,38:79,39:15,39:24,39:31,39:47,39:60,39:67-75,40:46,41:40,41:47,41:50,42:17,42:18,42:45,45:17,45:26,46:5,50:42,54:6-8,58:6,58:7,58:18,60:3,68:39,75:1,75:6,78:18,80:33-42,85:2,88:1"/>
+    <topic id="1007" parent="1005" name="followers of Jesus above non-believers" ayats="3:55"/>
+    <topic id="1008" parent="1005" name="of humans" ayats="13:5,16:39,17:51,17:98-99,20:55,22:7,22:66,25:40,29:20,30:11,34:7,36:12,36:79,41:39,43:11,46:33,53:47,56:61,63:7,71:18,75:3,80:22,85:13,86:8"/>
+    <topic id="1009" parent="1005" name="moon is darkened" ayats="75:8"/>
+    <topic id="1010" parent="1005" name="of soul" ayats="2:28,30:25,31:28"/>
+    <topic id="1011" parent="1005" name="sun and moon brought together (solar eclipse or solar" ayats=""/>
+    <topic id="1012" parent="1005" name="expansion?)" ayats="75:9"/>
+    <topic id="1013"  name="Revelation" ayats="42:52,43:4,45:16,46:12,47:20,52:2-3,56:80,57:16,57:25,57:26,66:12,69:43,74:31,74:52,80:13,98:1,98:4,98:6"/>
+    <topic id="1014" parent="1013" name="every age has had its own" ayats="13:38"/>
+    <topic id="1015" parent="1013" name="from behind a veil" ayats="42:51"/>
+    <topic id="1016" parent="1013" name="mentioning war" ayats="47:20"/>
+    <topic id="1017" parent="1013" name="nature of delivery" ayats="42:51,53:2-11"/>
+    <topic id="1018"  name="Ruby" ayats="55:58"/>
+    <topic id="1019"  name="Sabbath" ayats="16:124"/>
+    <topic id="1020" parent="1019" name="breakers" ayats="2:65,4:47,4:154-155,7:163-166"/>
+    <topic id="1021"  name="S" ayats=""/>
+    <topic id="1022"  name="Sabians" ayats="22:17"/>
+    <topic id="1023" parent="1022" name="righteous will" ayats=""/>
+    <topic id="1024" parent="1022" name="be rewarded" ayats="2:62,5:69"/>
+    <topic id="1025"  name="Sacrifice" ayats="108:2"/>
+    <topic id="1026"  name="Salih" ayats="7:73-79,11:61,11:89,26:142-158,27:45-52"/>
+    <topic id="1027"  name="Samaritan" ayats="20:85,20:87,20:95"/>
+    <topic id="1028"  name="Saul" ayats="2:247,2:249"/>
+    <topic id="1029"  name="Sea" ayats="2:50,2:164,5:96,6:59,6:63,7:138,7:163,10:22,10:90,14:32,16:14,17:66,17:67,17:70,18:60,18:61,18:63,18:79,18:109,20:77,22:65,24:40,26:63,27:63,30:41,31:27,31:31,42:33,45:12,52:6,55:24,81:6"/>
+    <topic id="1030" parent="1029" name="darkness in the depths of" ayats="24:40"/>
+    <topic id="1031"  name="Sex" ayats=""/>
+    <topic id="1032" parent="1031" name="conception and pregnancy (see Pregnancy)" ayats=""/>
+    <topic id="1033" parent="1031" name="consort with wives in a goodly manner" ayats="4:19"/>
+    <topic id="1034" parent="1031" name="don't force female slaves into prostitution" ayats="24:33"/>
+    <topic id="1035" parent="1031" name="during Ramadhan" ayats="2:187"/>
+    <topic id="1036" parent="1031" name="is what your spouse is for" ayats="2:187,2:222-223"/>
+    <topic id="1037" parent="1031" name="with slaves is legal (alternate interpretation)" ayats="23:6,33:50,33:52,70:30"/>
+    <topic id="1038"  name="Sexes" ayats=""/>
+    <topic id="1039" parent="1038" name="created from one living entity (soul)" ayats="4:1,6:98"/>
+    <topic id="1040" parent="1038" name="each entitled to own earnings" ayats="4:32"/>
+    <topic id="1041" parent="1038" name="equality of" ayats="3:195,4:32,4:124,6:139,9:67,9:68,9:71,9:72,16:97,33:35,33:58,33:73,40:40,42:49,42:50,47:19,48:5,48:6,57:13,57:18,60:10"/>
+    <topic id="1042" parent="1041" name="in divorce" ayats="2:228"/>
+    <topic id="1043" parent="1038" name="guides for one another" ayats="9:71"/>
+    <topic id="1044" parent="1038" name="men provide for women" ayats="4:34"/>
+    <topic id="1045"  name="Sheba" ayats="27:22-41,34:15"/>
+    <topic id="1046"  name="Ships" ayats="2:164,10:22,14:32,16:14,17:66,18:71,18:79,22:65,23:22,29:65,30:46,31:31,35:12,36:41,37:140,40:80,42:32,43:12,45:12,55:24"/>
+    <topic id="1047"  name="Shu'ayb" ayats="7:85-93,11:84-95,26:177-189,29:36"/>
+    <topic id="1048"  name="Sight" ayats="41:22"/>
+    <topic id="1049"  name="Silk" ayats="22:23,44:53,76:12,76:21"/>
+    <topic id="1050"  name="Silver" ayats="43:33-34,76:15-16,76:21"/>
+    <topic id="1051"  name="Sin" ayats="4:111"/>
+    <topic id="1052" parent="1051" name="avoiding" ayats="4:31"/>
+    <topic id="1053" parent="1051" name="blaming another" ayats="4:112"/>
+    <topic id="1054"  name="Sinai Mt." ayats="2:63,2:93,19:52,95:2"/>
+    <topic id="1055"  name="Skin" ayats="2:187,41:22"/>
+    <topic id="1056"  name="Sky" ayats="88:18"/>
+    <topic id="1057" parent="1056" name="still smoke" ayats="41:11"/>
+    <topic id="1058"  name="Slaves" ayats="4:3,4:24,4:25,4:36,16:71,23:6,24:31,24:58,30:28,33:50,33:52,33:55,70:30"/>
+    <topic id="1059" parent="1058" name="aquisition only though war" ayats="8:67"/>
+    <topic id="1060" parent="1058" name="don't force female slaves into prostitution" ayats="24:33"/>
+    <topic id="1061" parent="1058" name="freeing" ayats=""/>
+    <topic id="1062" parent="1061" name="after war is over" ayats="47:4"/>
+    <topic id="1063" parent="1061" name="as penance for a broken oath" ayats="5:89"/>
+    <topic id="1064" parent="1061" name="as penance for death of believer fighting against you" ayats="4:92"/>
+    <topic id="1065" parent="1061" name="charity is for freeing (among other things)" ayats="9:60"/>
+    <topic id="1066" parent="1061" name="is the act of a truly pious person" ayats="2:177"/>
+    <topic id="1067" parent="1061" name="those who ask you to who have any good in them" ayats="24:33"/>
+    <topic id="1068"  name="Solomon" ayats="2:101,4:163,6:84,21:78,21:79,21:81,27:15-21,34:12-14"/>
+    <topic id="1069" parent="1068" name="and the Queen of Sheba" ayats="27:22-41"/>
+    <topic id="1070" parent="1068" name="discovery of the death of" ayats="34:14-16"/>
+    <topic id="1071"  name="Sorcery" ayats=""/>
+    <topic id="1072" parent="1071" name="is evil" ayats="2:101"/>
+    <topic id="1073"  name="Spider" ayats="29:41"/>
+    <topic id="1074"  name="Spouses (a time when they are evil for you)" ayats="64:14"/>
+    <topic id="1075"  name="Stealing" ayats=""/>
+    <topic id="1076" parent="1075" name="cutting off hands as punishment" ayats="5:38"/>
+    <topic id="1077" parent="1076" name="forgiveness for (before discovery)" ayats="5:39"/>
+    <topic id="1078" parent="1075" name="is wrong even through the judiciary" ayats="2:188"/>
+    <topic id="1079"  name="Swine" ayats="5:60"/>
+    <topic id="1080"  name="Synagogues" ayats="22:40"/>
+    <topic id="1081"  name="T" ayats=""/>
+    <topic id="1082"  name="Tabuk" ayats=""/>
+    <topic id="1083" parent="1082" name="Allah's mercy" ayats=""/>
+    <topic id="1084" parent="1082" name="towards those on expedition to" ayats="9:118"/>
+    <topic id="1085"  name="Ten Commandments" ayats="2:53,7:145"/>
+    <topic id="1086"  name="Thamud" ayats="7:73,9:70,11:61,11:95,14:9,15:80,17:59,22:42,25:38,26:141,27:45-52,29:38,38:13,40:31,41:13,41:17,50:12,51:43,53:51,54:23-31,69:4,69:5,85:18,88:9,91:11"/>
+    <topic id="1087" parent="1086" name="rock dwellings" ayats="7:74,15:82,26:149,88:9"/>
+    <topic id="1088" parent="1086" name="she camel" ayats="7:73,11:64,26:155,54:26,91:13"/>
+    <topic id="1089" parent="1088" name="killing of" ayats="7:77,11:66,26:157,54:29,91:14"/>
+    <topic id="1090" parent="1089" name="punishment for" ayats="7:78,11:67,26:158,54:31,91:14"/>
+    <topic id="1091"  name="Time" ayats="103:1"/>
+    <topic id="1092"  name="Torah" ayats="3:3,3:93,5:44,5:46,5:66,5:68,5:110,7:157,9:111,48:29,61:6,62:5"/>
+    <topic id="1093" parent="1092" name="retribution in (also adopted by Muslims)" ayats="5:45"/>
+    <topic id="1094" parent="1093" name="forgoing it will be better" ayats="5:45"/>
+    <topic id="1095"  name="Treachery" ayats="8:58"/>
+    <topic id="1096"  name="Tree" ayats=""/>
+    <topic id="1097" parent="1096" name="at Hudaybiyyah" ayats="48:18"/>
+    <topic id="1098" parent="1096" name="of hell" ayats="17:60,37:62-63,56:52"/>
+    <topic id="1099"  name="Trees" ayats="22:18,23:20,27:60,31:27,36:80,55:6,56:72"/>
+    <topic id="1100"  name="Trinity" ayats=""/>
+    <topic id="1101" parent="1100" name="Allah is not a" ayats="4:171,5:73"/>
+    <topic id="1102"  name="Tubba" ayats="44:37,50:14"/>
+    <topic id="1103"  name="Twelve tribes" ayats="7:159"/>
+    <topic id="1104" parent="1103" name="scattering of" ayats="7:168"/>
+    <topic id="1105"  name="Two Horned One" ayats="18:83"/>
+    <topic id="1106"  name="U" ayats=""/>
+    <topic id="1107"  name="Uhud" ayats=""/>
+    <topic id="1108" parent="1107" name="battle of" ayats="3:121-123,3:143,3:152-154,3:166"/>
+    <topic id="1109"  name="Usury" ayats="30:39"/>
+    <topic id="1110" parent="1109" name="delay repayment (forgiving debt is better)" ayats="2:278"/>
+    <topic id="1111" parent="1109" name="forbidden" ayats="2:275,3:130"/>
+    <topic id="1112" parent="1109" name="forgive debt" ayats="2:278"/>
+    <topic id="1113" parent="1109" name="Jews took it even though forbidden to" ayats="4:161"/>
+    <topic id="1114"  name="W" ayats=""/>
+    <topic id="1115"  name="Water" ayats="47:15,56:31,56:68,67:30,77:27,88:17"/>
+    <topic id="1116" parent="1115" name="two great bodies" ayats=""/>
+    <topic id="1117" parent="1115" name="of" ayats="25:53,27:61,35:12,55:19,55:21"/>
+    <topic id="1118"  name="Weather" ayats=""/>
+    <topic id="1119" parent="1118" name="clouds" ayats="7:57,7:160,24:40,24:43,25:25,30:48,35:9,52:44,56:69"/>
+    <topic id="1120" parent="1119" name="and their patterns" ayats="2:164"/>
+    <topic id="1121" parent="1118" name="hail" ayats="24:43"/>
+    <topic id="1122" parent="1118" name="lifting" ayats="30:48,35:9"/>
+    <topic id="1123" parent="1118" name="lightning" ayats="13:12,30:24"/>
+    <topic id="1124" parent="1123" name="striking people" ayats="13:13"/>
+    <topic id="1125" parent="1118" name="rain" ayats="2:163,2:265,6:99,7:57,8:11,10:24,13:17,14:32,15:22,16:65,18:45,20:53,22:5,22:63,23:18,24:43,25:48,27:60,29:63,30:24,30:48,31:10,31:34,32:27,35:27,39:21,40:13,41:39,42:28,42:33,43:11,45:5,46:24,50:9,56:69,57:20,78:14,80:25"/>
+    <topic id="1126" parent="1125" name="and fighting" ayats="4:102"/>
+    <topic id="1127" parent="1118" name="storms" ayats="17:68,17:69"/>
+    <topic id="1128" parent="1118" name="thunder" ayats="13:13"/>
+    <topic id="1129" parent="1118" name="wind" ayats="7:57,14:18,15:22,17:68,21:81,25:48,27:63,29:40,30:46,30:48,30:51,33:9,34:12,35:9,38:36,41:16,45:5,46:24,51:1-4,51:41,52:27,54:19,67:17,69:6,78:14"/>
+    <topic id="1130" parent="1129" name="to pollinate" ayats="15:22"/>
+    <topic id="1131"  name="Widows" ayats=""/>
+    <topic id="1132" parent="1131" name="provisions for one year" ayats="2:240"/>
+    <topic id="1133" parent="1132" name="year in husband's home" ayats="2:240"/>
+    <topic id="1134" parent="1131" name="wait four months and ten days before remarriage" ayats="2:234"/>
+    <topic id="1135" parent="1134" name="OK to plan remarriage during waiting period" ayats="2:235"/>
+    <topic id="1136"  name="Wills" ayats="2:180,2:240"/>
+    <topic id="1137" parent="1136" name="amending forbidden" ayats="2:181-182"/>
+    <topic id="1138" parent="1136" name="two witnesses when you declare it" ayats="5:106"/>
+    <topic id="1139" parent="1138" name="if those two should falter" ayats="5:107"/>
+    <topic id="1140"  name="Wine" ayats="47:15,83:25"/>
+    <topic id="1141"  name="Wools" ayats="16:80"/>
+    <topic id="1142"  name="Women" ayats=""/>
+    <topic id="1143" parent="1142" name="accept those seeking refuge from non-believing husbands" ayats="60:10"/>
+    <topic id="1144" parent="1142" name="gross moral depravity" ayats="4:15"/>
+    <topic id="1145" parent="1144" name="punishment for" ayats="4:15"/>
+    <topic id="1146" parent="1144" name="repentence" ayats="4:16"/>
+    <topic id="1147" parent="1142" name="ill willed" ayats="4:34"/>
+    <topic id="1148" parent="1147" name="punishment for" ayats="4:34"/>
+    <topic id="1149" parent="1142" name="lack of outer garments for older" ayats="24:60"/>
+    <topic id="1150" parent="1142" name="pledges of believing women" ayats="60:12"/>
+    <topic id="1151" parent="1142" name="righteous guard intimacies revealed to them" ayats="4:34,66:3-6"/>
+    <topic id="1152"  name="term (time) of pregnancy (see Pregnancy)" ayats=""/>
+    <topic id="1153"  name="Z" ayats=""/>
+    <topic id="1154"  name="Zachariah" ayats="3:37-41,6:85,19:2-12"/>
+</topics>

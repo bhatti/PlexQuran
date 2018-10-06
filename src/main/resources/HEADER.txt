@@ -1,0 +1,6 @@
+^checkstyle
+^\s*$
+^/\*\s*$
+^ \* Copyright (C) Peak6\s*$
+^ \*/\s*$
+^\s*$
